@@ -1,0 +1,1449 @@
+sentence,span_start,span_end,span_text,cei_tag,positioning_tag
+"Hello, Las Vegas.",7,16,Las Vegas,IDENTITY_MARKER,NEUTRAL
+"Hello, Nevada.",7,13,Nevada,IDENTITY_MARKER,NEUTRAL
+"Well, we won.",6,8,we,PRONOUN,POSITIVE
+We won.,0,2,We,PRONOUN,POSITIVE
+And it's great to be back in this beautiful city to celebrate the historic first week in the White House.,29,48,this beautiful city,IDENTITY_MARKER,POSITIVE
+And it's great to be back in this beautiful city to celebrate the historic first week in the White House.,62,85,the historic first week,IDENTITY_MARKER,POSITIVE
+And it's great to be back in this beautiful city to celebrate the historic first week in the White House.,89,104,the White House,IDENTITY_MARKER,NEUTRAL
+That was definitely historic.,0,4,That,IDENTITY_MARKER,POSITIVE
+And I had a lot of help in winning.,10,23,a lot of help,IDENTITY_MARKER,POSITIVE
+"Joe Lombardo, your governor, is here someplace.",0,12,Joe Lombardo,IDENTITY_MARKER,NEUTRAL
+"Joe Lombardo, your governor, is here someplace.",14,27,your governor,IDENTITY_MARKER,NEUTRAL
+Where's Joe?,8,11,Joe,IDENTITY_MARKER,NEUTRAL
+"Thank you, Joe.",11,14,Joe,IDENTITY_MARKER,POSITIVE
+"You're looking good, Joe.",0,3,You,PRONOUN,POSITIVE
+"You're looking good, Joe.",21,24,Joe,IDENTITY_MARKER,POSITIVE
+What a grouper.,5,14,a grouper,IDENTITY_MARKER,NEUTRAL
+Look at who you have next to you.,12,15,you,PRONOUN,NEUTRAL
+Look at who you have next to you.,29,32,you,PRONOUN,NEUTRAL
+How can you fail with that guy?,8,11,you,PRONOUN,NEUTRAL
+How can you fail with that guy?,22,30,that guy,IDENTITY_MARKER,POSITIVE
+"Also, Lieutenant Governor Stavros Anthony.",6,41,Lieutenant Governor Stavros Anthony,IDENTITY_MARKER,NEUTRAL
+"Stavros, thank you very much.",0,7,Stavros,IDENTITY_MARKER,POSITIVE
+Where are you?,10,13,you,PRONOUN,NEUTRAL
+"There you are, Stavros.",6,9,you,PRONOUN,NEUTRAL
+"There you are, Stavros.",15,22,Stavros,IDENTITY_MARKER,NEUTRAL
+You're very good.,0,3,You,PRONOUN,POSITIVE
+"Is he doing a good job, Joe?",3,5,he,PRONOUN,NEUTRAL
+"Is he doing a good job, Joe?",24,27,Joe,IDENTITY_MARKER,NEUTRAL
+"He's all right, huh?",0,2,He,PRONOUN,POSITIVE
+"Nevada GOP chair, Michael McDonald.",0,16,Nevada GOP chair,IDENTITY_MARKER,NEUTRAL
+"Nevada GOP chair, Michael McDonald.",18,34,Michael McDonald,IDENTITY_MARKER,NEUTRAL
+He did something which not a lot of people have been able to do.,0,2,He,PRONOUN,POSITIVE
+He did something which not a lot of people have been able to do.,23,42,not a lot of people,IDENTITY_MARKER,NEGATIVE
+But I think Republicans are going to start winning this thing.,12,23,Republicans,IDENTITY_MARKER,POSITIVE
+But I think Republicans are going to start winning this thing.,51,61,this thing,IDENTITY_MARKER,POSITIVE
+"You know, typically, they don't necessarily do so good.",0,3,You,PRONOUN,POSITIVE
+"You know, typically, they don't necessarily do so good.",21,25,they,PRONOUN,NEGATIVE
+We did really well.,0,2,We,PRONOUN,POSITIVE
+We won a landslide.,0,2,We,PRONOUN,POSITIVE
+We won a landslide.,7,18,a landslide,IDENTITY_MARKER,POSITIVE
+I must be honest with you.,22,25,you,PRONOUN,NEUTRAL
+Republican National Committeewoman Sigal Chattah.,0,48,Republican National Committeewoman Sigal Chattah,IDENTITY_MARKER,NEUTRAL
+"Sigal, thank you, wherever you may be.",0,5,Sigal,IDENTITY_MARKER,POSITIVE
+"Sigal, thank you, wherever you may be.",27,30,you,PRONOUN,POSITIVE
+"Hi, Sigal.",4,9,Sigal,IDENTITY_MARKER,NEUTRAL
+Republican National Committeeman Jim DeGraffenreid.,0,50,Republican National Committeeman Jim DeGraffenreid,IDENTITY_MARKER,NEUTRAL
+"That's a hell of a beautiful name, but I know the name's so long, it's easy to say.",0,4,That,IDENTITY_MARKER,POSITIVE
+"That's a hell of a beautiful name, but I know the name's so long, it's easy to say.",17,33,a beautiful name,IDENTITY_MARKER,POSITIVE
+"That's a hell of a beautiful name, but I know the name's so long, it's easy to say.",46,54,the name,IDENTITY_MARKER,POSITIVE
+"That's a hell of a beautiful name, but I know the name's so long, it's easy to say.",66,68,it,PRONOUN,POSITIVE
+"One of the greatest people, I'll tell you, a man who's done so damn well.",0,26,One of the greatest people,IDENTITY_MARKER,POSITIVE
+"One of the greatest people, I'll tell you, a man who's done so damn well.",38,41,you,PRONOUN,NEUTRAL
+"One of the greatest people, I'll tell you, a man who's done so damn well.",43,48,a man,IDENTITY_MARKER,POSITIVE
+I don't know what it is with him.,18,20,it,PRONOUN,NEUTRAL
+I don't know what it is with him.,29,32,him,PRONOUN,NEUTRAL
+He's just a legend.,0,2,He,PRONOUN,POSITIVE
+He's one person.,0,2,He,PRONOUN,NEUTRAL
+"You know, we can all sort of be replaced, although we don't like to think that.",0,3,You,PRONOUN,POSITIVE
+"You know, we can all sort of be replaced, although we don't like to think that.",10,12,we,PRONOUN,NEUTRAL
+"You know, we can all sort of be replaced, although we don't like to think that.",51,53,we,PRONOUN,NEUTRAL
+Maybe it's not true.,6,8,it,PRONOUN,NEUTRAL
+But this is a guy that can't be replaced.,12,17,a guy,IDENTITY_MARKER,POSITIVE
+There's nobody like him.,20,23,him,PRONOUN,POSITIVE
+Dana White.,0,10,Dana White,IDENTITY_MARKER,NEUTRAL
+Where's Dana White?,8,18,Dana White,IDENTITY_MARKER,NEUTRAL
+Where is Dana White?,9,19,Dana White,IDENTITY_MARKER,NEUTRAL
+Where the hell is he?,18,20,he,PRONOUN,NEUTRAL
+UFC.,0,3,UFC,IDENTITY_MARKER,NEUTRAL
+Are the Nelk Boys here?,4,17,the Nelk Boys,IDENTITY_MARKER,NEUTRAL
+"There they are, the Nelk Boys, right there.",6,10,they,PRONOUN,NEUTRAL
+"There they are, the Nelk Boys, right there.",16,29,the Nelk Boys,IDENTITY_MARKER,NEUTRAL
+And Rick Harrison.,4,17,Rick Harrison,IDENTITY_MARKER,NEUTRAL
+"Rick, thank you very much for being here.",0,4,Rick,IDENTITY_MARKER,POSITIVE
+"Rick, thank you very much for being here.",36,40,here,IDENTITY_MARKER,NEUTRAL
+You're around here someplace with Dana.,0,3,You,PRONOUN,NEUTRAL
+You're around here someplace with Dana.,34,38,Dana,IDENTITY_MARKER,NEUTRAL
+"Mr. Phil Ruffin; his wife, Alexandra; and their two beautiful children, Richard and Marlena.",0,15,Mr. Phil Ruffin,IDENTITY_MARKER,NEUTRAL
+"Mr. Phil Ruffin; his wife, Alexandra; and their two beautiful children, Richard and Marlena.",17,36,"his wife, Alexandra",IDENTITY_MARKER,NEUTRAL
+"Mr. Phil Ruffin; his wife, Alexandra; and their two beautiful children, Richard and Marlena.",42,91,"their two beautiful children, Richard and Marlena",IDENTITY_MARKER,POSITIVE
+Phil?,0,4,Phil,IDENTITY_MARKER,NEUTRAL
+Where's Ruffin?,8,14,Ruffin,IDENTITY_MARKER,NEUTRAL
+Where's Phil Ruffin?,8,19,Phil Ruffin,IDENTITY_MARKER,NEUTRAL
+He's right here.,0,2,He,PRONOUN,NEUTRAL
+"So, he's some legend, I'll tell you.",4,6,he,PRONOUN,POSITIVE
+"So, he's some legend, I'll tell you.",32,35,you,PRONOUN,NEUTRAL
+He's a legend in Las Vegas and beyond.,0,2,He,PRONOUN,POSITIVE
+He's a legend in Las Vegas and beyond.,17,26,Las Vegas,IDENTITY_MARKER,NEUTRAL
+He's a legend in Las Vegas and beyond.,31,37,beyond,IDENTITY_MARKER,NEUTRAL
+"Phil, he's here.",0,4,Phil,IDENTITY_MARKER,NEUTRAL
+"Phil, he's here.",6,8,he,PRONOUN,NEUTRAL
+He'll be coming out.,0,2,He,PRONOUN,NEUTRAL
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",7,9,we,PRONOUN,NEUTRAL
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",25,27,we,PRONOUN,POSITIVE
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",44,66,the economic suffering,IDENTITY_MARKER,NEGATIVE
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",71,81,stagnation,IDENTITY_MARKER,NEGATIVE
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",86,117,disaster of the past four years,IDENTITY_MARKER,NEGATIVE
+"Today, we talk about how we're going to end the economic suffering and stagnation and disaster of the past four years and create the four greatest years in the history of our country.",129,182,the four greatest years in the history of our country,IDENTITY_MARKER,POSITIVE
+That's what's going to happen.,0,4,That,IDENTITY_MARKER,NEUTRAL
+"And as I said in my inaugural address, which, by the way, it got the highest rating in the history of Fox.",17,37,my inaugural address,IDENTITY_MARKER,NEUTRAL
+"And as I said in my inaugural address, which, by the way, it got the highest rating in the history of Fox.",58,60,it,PRONOUN,POSITIVE
+"And as I said in my inaugural address, which, by the way, it got the highest rating in the history of Fox.",65,105,the highest rating in the history of Fox,IDENTITY_MARKER,POSITIVE
+Can you believe that?,4,7,you,PRONOUN,NEUTRAL
+That's nice.,0,4,That,IDENTITY_MARKER,POSITIVE
+The golden age of America begins right now.,0,25,The golden age of America,IDENTITY_MARKER,POSITIVE
+But I have to be honest with you.,29,32,you,PRONOUN,NEUTRAL
+I'm really here for a different reason.,11,15,here,IDENTITY_MARKER,NEUTRAL
+I'm here to say thank you.,22,25,you,PRONOUN,POSITIVE
+"I went to North Carolina yesterday, and then I flew to see just an unbelievable problem and just a mess in Los Angeles, right?",10,24,North Carolina,IDENTITY_MARKER,NEUTRAL
+"I went to North Carolina yesterday, and then I flew to see just an unbelievable problem and just a mess in Los Angeles, right?",64,87,an unbelievable problem,IDENTITY_MARKER,NEGATIVE
+"I went to North Carolina yesterday, and then I flew to see just an unbelievable problem and just a mess in Los Angeles, right?",97,103,a mess,IDENTITY_MARKER,NEGATIVE
+"I went to North Carolina yesterday, and then I flew to see just an unbelievable problem and just a mess in Los Angeles, right?",107,118,Los Angeles,IDENTITY_MARKER,NEUTRAL
+"And I said, ""You know what I ought to do?",13,16,You,PRONOUN,NEUTRAL
+"I want to come to a state known as Nevada.""",18,41,a state known as Nevada,IDENTITY_MARKER,NEUTRAL
+Has anyone ever heard of it?,4,10,anyone,IDENTITY_MARKER,NEUTRAL
+Has anyone ever heard of it?,25,27,it,PRONOUN,NEUTRAL
+And don't ever mispronounce the name.,28,36,the name,IDENTITY_MARKER,NEUTRAL
+You're not allowed to do that.,0,3,You,PRONOUN,NEGATIVE
+You're not allowed to do that.,25,29,that,IDENTITY_MARKER,NEUTRAL
+"You know, you mispronounce the name, you've got a problem.",0,3,You,PRONOUN,NEUTRAL
+"You know, you mispronounce the name, you've got a problem.",10,13,you,PRONOUN,NEUTRAL
+"You know, you mispronounce the name, you've got a problem.",27,35,the name,IDENTITY_MARKER,NEUTRAL
+"You know, you mispronounce the name, you've got a problem.",37,40,you,PRONOUN,NEGATIVE
+You ever see somebody when they say it's Nevada?,0,3,You,PRONOUN,NEUTRAL
+You ever see somebody when they say it's Nevada?,13,21,somebody,IDENTITY_MARKER,NEUTRAL
+You ever see somebody when they say it's Nevada?,27,31,they,PRONOUN,NEUTRAL
+You ever see somebody when they say it's Nevada?,36,38,it,PRONOUN,NEUTRAL
+You ever see somebody when they say it's Nevada?,41,47,Nevada,IDENTITY_MARKER,NEUTRAL
+Nevada?,0,6,Nevada,IDENTITY_MARKER,NEUTRAL
+"Oh, they're in deep trouble.",4,8,they,PRONOUN,NEGATIVE
+"I want to come to Nevada to pay my respects because this is the only Republican win of this state in decades, and it was a very big landslide.",18,24,Nevada,IDENTITY_MARKER,NEUTRAL
+"I want to come to Nevada to pay my respects because this is the only Republican win of this state in decades, and it was a very big landslide.",32,43,my respects,IDENTITY_MARKER,POSITIVE
+"I want to come to Nevada to pay my respects because this is the only Republican win of this state in decades, and it was a very big landslide.",52,56,this,IDENTITY_MARKER,NEUTRAL
+"I want to come to Nevada to pay my respects because this is the only Republican win of this state in decades, and it was a very big landslide.",60,108,the only Republican win of this state in decades,IDENTITY_MARKER,NEUTRAL
+"I want to come to Nevada to pay my respects because this is the only Republican win of this state in decades, and it was a very big landslide.",114,116,it,PRONOUN,POSITIVE
+But I think Republicans are going to win a lot now.,12,23,Republicans,IDENTITY_MARKER,POSITIVE
+"But it was a big -- we had a big win, and it was an early win, and that was a bad signal for the Democrats.",4,6,it,PRONOUN,POSITIVE
+"But it was a big -- we had a big win, and it was an early win, and that was a bad signal for the Democrats.",20,22,we,PRONOUN,POSITIVE
+"But it was a big -- we had a big win, and it was an early win, and that was a bad signal for the Democrats.",42,44,it,PRONOUN,POSITIVE
+"But it was a big -- we had a big win, and it was an early win, and that was a bad signal for the Democrats.",67,71,that,IDENTITY_MARKER,NEUTRAL
+"But it was a big -- we had a big win, and it was an early win, and that was a bad signal for the Democrats.",93,106,the Democrats,IDENTITY_MARKER,NEUTRAL
+"They heard that we were leading so big here, and Joe helped us so much.",0,4,They,PRONOUN,NEUTRAL
+"They heard that we were leading so big here, and Joe helped us so much.",16,18,we,PRONOUN,POSITIVE
+"They heard that we were leading so big here, and Joe helped us so much.",39,43,here,IDENTITY_MARKER,NEUTRAL
+"They heard that we were leading so big here, and Joe helped us so much.",49,52,Joe,IDENTITY_MARKER,POSITIVE
+"They heard that we were leading so big here, and Joe helped us so much.",60,62,us,PRONOUN,POSITIVE
+"And a lot of people in this room helped us a lot, special group, special group.",4,19,a lot of people,IDENTITY_MARKER,POSITIVE
+"And a lot of people in this room helped us a lot, special group, special group.",23,32,this room,IDENTITY_MARKER,NEUTRAL
+"And a lot of people in this room helped us a lot, special group, special group.",40,42,us,PRONOUN,POSITIVE
+"And a lot of people in this room helped us a lot, special group, special group.",50,63,special group,IDENTITY_MARKER,POSITIVE
+"And a lot of people in this room helped us a lot, special group, special group.",65,78,special group,IDENTITY_MARKER,POSITIVE
+"And so, I said, ""You know what I'll do?",17,20,You,PRONOUN,NEUTRAL
+"We're going to fly around it.""",0,2,We,PRONOUN,NEUTRAL
+"We're going to fly around it.""",26,28,it,PRONOUN,NEUTRAL
+"And I said, ""Let's fly right over it.",34,36,it,PRONOUN,NEUTRAL
+"Let's land, and I'll do something, and I'll just say it.""",53,55,it,PRONOUN,NEUTRAL
+"But I want to say it, and I'm almost saying it right here for the media.",18,20,it,PRONOUN,NEUTRAL
+"But I want to say it, and I'm almost saying it right here for the media.",62,71,the media,IDENTITY_MARKER,NEUTRAL
+I just came here because I wanted to thank the people of Nevada for giving us such a big win.,43,63,the people of Nevada,IDENTITY_MARKER,POSITIVE
+I just came here because I wanted to thank the people of Nevada for giving us such a big win.,75,77,us,PRONOUN,POSITIVE
+A lot of great friends.,0,22,A lot of great friends,IDENTITY_MARKER,POSITIVE
+"I better not introduce them, or I'll be here all day.",23,27,them,PRONOUN,NEUTRAL
+"Under our leadership, we're going to defeat inflation, bring down prices.",6,20,our leadership,IDENTITY_MARKER,POSITIVE
+"Under our leadership, we're going to defeat inflation, bring down prices.",22,24,we,PRONOUN,POSITIVE
+"Under our leadership, we're going to defeat inflation, bring down prices.",44,53,inflation,IDENTITY_MARKER,NEGATIVE
+"Under our leadership, we're going to defeat inflation, bring down prices.",66,72,prices,IDENTITY_MARKER,NEGATIVE
+We're going to raise those wages.,0,2,We,PRONOUN,POSITIVE
+We're going to raise those wages.,21,32,those wages,IDENTITY_MARKER,NEUTRAL
+They're going to go up.,0,4,They,PRONOUN,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",4,14,more money,IDENTITY_MARKER,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",18,30,your pockets,IDENTITY_MARKER,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",39,50,our borders,IDENTITY_MARKER,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",60,73,law and order,IDENTITY_MARKER,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",77,87,our cities,IDENTITY_MARKER,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",93,95,we,PRONOUN,POSITIVE
+"Put more money in your pockets, secure our borders, restore law and order to our cities, and we're going to make America great again.",113,120,America,IDENTITY_MARKER,POSITIVE
+"And for four long years, the last administration waged war on the American middle class and everybody else.",25,48,the last administration,IDENTITY_MARKER,NEGATIVE
+"And for four long years, the last administration waged war on the American middle class and everybody else.",62,87,the American middle class,IDENTITY_MARKER,POSITIVE
+"And for four long years, the last administration waged war on the American middle class and everybody else.",92,106,everybody else,IDENTITY_MARKER,POSITIVE
+They had a lot of wars.,0,4,They,PRONOUN,NEGATIVE
+They had a lot of wars.,9,22,a lot of wars,IDENTITY_MARKER,NEGATIVE
+We had no wars when I left.,0,2,We,PRONOUN,NEUTRAL
+We had no wars when I left.,7,14,no wars,IDENTITY_MARKER,POSITIVE
+"You know, they had -- we defeated ISIS, and we stayed out.",0,3,You,PRONOUN,NEUTRAL
+"You know, they had -- we defeated ISIS, and we stayed out.",10,14,they,PRONOUN,NEUTRAL
+"You know, they had -- we defeated ISIS, and we stayed out.",22,24,we,PRONOUN,POSITIVE
+"You know, they had -- we defeated ISIS, and we stayed out.",34,38,ISIS,IDENTITY_MARKER,NEGATIVE
+"You know, they had -- we defeated ISIS, and we stayed out.",44,46,we,PRONOUN,POSITIVE
+Nobody wanted to mess with us.,0,6,Nobody,IDENTITY_MARKER,NEUTRAL
+Nobody wanted to mess with us.,27,29,us,PRONOUN,POSITIVE
+We're still -- we're trying to put them out.,0,2,We,PRONOUN,NEUTRAL
+We're still -- we're trying to put them out.,15,17,we,PRONOUN,POSITIVE
+We're still -- we're trying to put them out.,35,39,them,PRONOUN,NEGATIVE
+We'll get them put out.,0,2,We,PRONOUN,POSITIVE
+We'll get them put out.,10,14,them,PRONOUN,NEGATIVE
+We were headed to World War III.,0,2,We,PRONOUN,POSITIVE
+We were headed to World War III.,18,31,World War III,IDENTITY_MARKER,NEGATIVE
+I'm telling you.,12,15,you,PRONOUN,NEUTRAL
+We would have had problems like you wouldn't believe.,0,2,We,PRONOUN,POSITIVE
+We would have had problems like you wouldn't believe.,18,26,problems,IDENTITY_MARKER,NEGATIVE
+We would have had problems like you wouldn't believe.,32,35,you,PRONOUN,NEUTRAL
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",0,4,They,PRONOUN,NEGATIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",15,30,American energy,IDENTITY_MARKER,POSITIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",39,42,you,PRONOUN,POSITIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",46,66,crippling regulation,IDENTITY_MARKER,NEGATIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",76,88,hidden taxes,IDENTITY_MARKER,NEGATIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",100,134,trillions and trillions of dollars,IDENTITY_MARKER,NEUTRAL
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",138,143,waste,IDENTITY_MARKER,NEGATIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",145,155,corruption,IDENTITY_MARKER,NEGATIVE
+"They shut down American energy, buried you in crippling regulation, imposed hidden taxes, and spent trillions and trillions of dollars on waste, corruption, and radical left lunacy.",161,180,radical left lunacy,IDENTITY_MARKER,NEGATIVE
+These were lunatics.,0,5,These,PRONOUN,NEGATIVE
+These were lunatics.,11,19,lunatics,IDENTITY_MARKER,NEGATIVE
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",0,10,The result,IDENTITY_MARKER,NEGATIVE
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",15,58,the most brutal inflation in half a century,IDENTITY_MARKER,NEGATIVE
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",77,89,this country,IDENTITY_MARKER,NEUTRAL
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",109,123,soaring prices,IDENTITY_MARKER,NEGATIVE
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",128,132,food,IDENTITY_MARKER,NEUTRAL
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",134,143,groceries,IDENTITY_MARKER,NEUTRAL
+"The result was the most brutal inflation in half a century, perhaps ever, in this country, I think ever, and soaring prices for food, groceries, and other household goods.",149,170,other household goods,IDENTITY_MARKER,NEUTRAL
+"The people of Nevada are now paying nearly $1,200 per month more to make ends meet since I left office.",0,20,The people of Nevada,IDENTITY_MARKER,POSITIVE
+"The people of Nevada are now paying nearly $1,200 per month more to make ends meet since I left office.",36,64,"nearly $1,200 per month more",IDENTITY_MARKER,NEGATIVE
+"The people of Nevada are now paying nearly $1,200 per month more to make ends meet since I left office.",96,102,office,IDENTITY_MARKER,NEUTRAL
+Think of that.,9,13,that,IDENTITY_MARKER,NEUTRAL
+"But since I became the 47th president at noon on Monday, I've been moving with urgency and historic speed to fix every single calamity of the Biden administration that they've created.",19,37,the 47th president,IDENTITY_MARKER,NEUTRAL
+"But since I became the 47th president at noon on Monday, I've been moving with urgency and historic speed to fix every single calamity of the Biden administration that they've created.",113,162,every single calamity of the Biden administration,IDENTITY_MARKER,NEGATIVE
+"But since I became the 47th president at noon on Monday, I've been moving with urgency and historic speed to fix every single calamity of the Biden administration that they've created.",168,172,they,PRONOUN,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",35,56,350 executive actions,IDENTITY_MARKER,POSITIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",68,103,the horrible failures and betrayals,IDENTITY_MARKER,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",109,111,we,PRONOUN,POSITIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",127,144,a group of people,IDENTITY_MARKER,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",176,180,they,PRONOUN,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",198,202,they,PRONOUN,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",214,226,this country,IDENTITY_MARKER,POSITIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",239,255,the open borders,IDENTITY_MARKER,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",263,267,they,PRONOUN,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",283,285,it,PRONOUN,NEGATIVE
+"And this week alone, I took nearly 350 executive actions to reverse the horrible failures and betrayals that we inherited from a group of people that didn't know what the hell they were doing, what they've done to this country, especially the open borders, where they have, think of it, 21 million people came in.",287,304,21 million people,IDENTITY_MARKER,NEGATIVE
+"Many of them are criminals, murderers.",0,12,Many of them,IDENTITY_MARKER,NEGATIVE
+"Many of them are criminals, murderers.",17,26,criminals,IDENTITY_MARKER,NEGATIVE
+"Many of them are criminals, murderers.",28,37,murderers,IDENTITY_MARKER,NEGATIVE
+"Well, we're getting them out.",6,8,we,PRONOUN,POSITIVE
+"Well, we're getting them out.",20,24,them,PRONOUN,NEGATIVE
+You see it.,0,3,You,PRONOUN,POSITIVE
+You see it.,8,10,it,PRONOUN,NEUTRAL
+"You see it yesterday, first step.",0,3,You,PRONOUN,POSITIVE
+"You see it yesterday, first step.",8,10,it,PRONOUN,NEUTRAL
+Our message could not be more clear.,0,11,Our message,IDENTITY_MARKER,NEUTRAL
+America's decline is over.,0,7,America,IDENTITY_MARKER,POSITIVE
+American decline is over.,0,16,American decline,IDENTITY_MARKER,POSITIVE
+We're laughed at all over the world.,0,2,We,PRONOUN,POSITIVE
+We're laughed at all over the world.,17,35,all over the world,IDENTITY_MARKER,NEGATIVE
+"Now, we're not laughed at anymore, I'll tell you.",5,7,we,PRONOUN,POSITIVE
+"Now, we're not laughed at anymore, I'll tell you.",45,48,you,PRONOUN,NEUTRAL
+What the world witnessed this week is nothing less than a revolution of wealth creation for everyone and also common sense.,5,14,the world,IDENTITY_MARKER,NEUTRAL
+What the world witnessed this week is nothing less than a revolution of wealth creation for everyone and also common sense.,56,87,a revolution of wealth creation,IDENTITY_MARKER,POSITIVE
+What the world witnessed this week is nothing less than a revolution of wealth creation for everyone and also common sense.,92,100,everyone,IDENTITY_MARKER,POSITIVE
+What the world witnessed this week is nothing less than a revolution of wealth creation for everyone and also common sense.,110,122,common sense,IDENTITY_MARKER,POSITIVE
+It's about common sense.,0,2,It,PRONOUN,NEUTRAL
+It's about common sense.,11,23,common sense,IDENTITY_MARKER,POSITIVE
+It really is.,0,2,It,PRONOUN,NEUTRAL
+We're the party of common sense.,0,2,We,PRONOUN,POSITIVE
+We're the party of common sense.,6,31,the party of common sense,IDENTITY_MARKER,POSITIVE
+"On Day 1, I directed every member of my cabinet to -- and by the way, Pete Hegseth got approved.",21,47,every member of my cabinet,IDENTITY_MARKER,NEUTRAL
+"On Day 1, I directed every member of my cabinet to -- and by the way, Pete Hegseth got approved.",70,82,Pete Hegseth,IDENTITY_MARKER,NEUTRAL
+"And Kristi Noem just got approved, Governor.",4,15,Kristi Noem,IDENTITY_MARKER,NEUTRAL
+"And Kristi Noem just got approved, Governor.",35,43,Governor,IDENTITY_MARKER,NEUTRAL
+She's going to keep it.,0,3,She,PRONOUN,POSITIVE
+She's going to keep it.,20,22,it,PRONOUN,POSITIVE
+She's tough.,0,3,She,PRONOUN,POSITIVE
+She's a tough one.,0,3,She,PRONOUN,POSITIVE
+She's a tough one.,6,17,a tough one,IDENTITY_MARKER,POSITIVE
+And she's going to do a great job.,4,7,she,PRONOUN,POSITIVE
+And she's going to do a great job.,22,33,a great job,IDENTITY_MARKER,POSITIVE
+"On Day 1, I directed every member of my cabinet to marshal all powers at their disposal to defeat inflation and bring down the cost of daily life.",21,47,every member of my cabinet,IDENTITY_MARKER,NEUTRAL
+"On Day 1, I directed every member of my cabinet to marshal all powers at their disposal to defeat inflation and bring down the cost of daily life.",59,87,all powers at their disposal,IDENTITY_MARKER,NEUTRAL
+"On Day 1, I directed every member of my cabinet to marshal all powers at their disposal to defeat inflation and bring down the cost of daily life.",98,107,inflation,IDENTITY_MARKER,NEGATIVE
+"On Day 1, I directed every member of my cabinet to marshal all powers at their disposal to defeat inflation and bring down the cost of daily life.",123,145,the cost of daily life,IDENTITY_MARKER,NEGATIVE
+We want to bring prices down.,0,2,We,PRONOUN,POSITIVE
+We want to bring prices down.,17,23,prices,IDENTITY_MARKER,NEGATIVE
+"I imposed a federal hiring freeze, a federal regulation freeze, a foreign aid freeze.",10,33,a federal hiring freeze,IDENTITY_MARKER,POSITIVE
+"I imposed a federal hiring freeze, a federal regulation freeze, a foreign aid freeze.",35,62,a federal regulation freeze,IDENTITY_MARKER,POSITIVE
+"I imposed a federal hiring freeze, a federal regulation freeze, a foreign aid freeze.",64,84,a foreign aid freeze,IDENTITY_MARKER,POSITIVE
+"Oh, that's a nice one.",4,8,that,IDENTITY_MARKER,POSITIVE
+"Oh, that's a nice one.",11,21,a nice one,IDENTITY_MARKER,POSITIVE
+And I created the new Department of Government Efficiency.,14,57,the new Department of Government Efficiency,IDENTITY_MARKER,POSITIVE
+And we're going to have a lot of good people.,4,6,we,PRONOUN,POSITIVE
+And we're going to have a lot of good people.,24,44,a lot of good people,IDENTITY_MARKER,POSITIVE
+Elon.,0,4,Elon,IDENTITY_MARKER,NEUTRAL
+We're going to get Elon Musk to get involved in that a little bit.,0,2,We,PRONOUN,NEUTRAL
+We're going to get Elon Musk to get involved in that a little bit.,19,28,Elon Musk,IDENTITY_MARKER,NEUTRAL
+We're going to get Elon Musk to get involved in that a little bit.,48,52,that,IDENTITY_MARKER,NEUTRAL
+He already is.,0,2,He,PRONOUN,NEUTRAL
+People like him.,0,6,People,IDENTITY_MARKER,NEUTRAL
+People like him.,12,15,him,PRONOUN,POSITIVE
+I terminated the ridiculous and incredibly wasteful Green New Scam.,13,66,the ridiculous and incredibly wasteful Green New Scam,IDENTITY_MARKER,NEGATIVE
+Wasn't the environment supposed to eat us up like in 12 years?,7,22,the environment,IDENTITY_MARKER,NEGATIVE
+Wasn't the environment supposed to eat us up like in 12 years?,39,41,us,PRONOUN,POSITIVE
+But that was like 13 years ago.,4,8,that,IDENTITY_MARKER,NEUTRAL
+We're still here.,0,2,We,PRONOUN,POSITIVE
+We're still here.,12,16,here,IDENTITY_MARKER,NEUTRAL
+"""Remember, we have 12 years to live.""",11,13,we,PRONOUN,NEUTRAL
+Remember that?,9,13,that,IDENTITY_MARKER,NEUTRAL
+Done by somebody that never even took a course on the environment.,8,16,somebody,IDENTITY_MARKER,NEGATIVE
+Done by somebody that never even took a course on the environment.,38,65,a course on the environment,IDENTITY_MARKER,POSITIVE
+AOC plus three.,0,3,AOC,IDENTITY_MARKER,NEUTRAL
+AOC plus three.,9,14,three,IDENTITY_MARKER,NEUTRAL
+Do you remember those three?,3,6,you,PRONOUN,NEUTRAL
+Do you remember those three?,16,27,those three,IDENTITY_MARKER,NEUTRAL
+They were telling us about the environment.,0,4,They,PRONOUN,NEUTRAL
+They were telling us about the environment.,18,20,us,PRONOUN,NEUTRAL
+They were telling us about the environment.,27,42,the environment,IDENTITY_MARKER,NEUTRAL
+This action alone will save hundreds of billions of dollars of American taxpayers' money.,0,17,This action alone,IDENTITY_MARKER,POSITIVE
+This action alone will save hundreds of billions of dollars of American taxpayers' money.,28,88,hundreds of billions of dollars of American taxpayers' money,IDENTITY_MARKER,POSITIVE
+I withdrew from the one-sided Paris climate accords.,16,51,the one-sided Paris climate accords,IDENTITY_MARKER,NEGATIVE
+"And I canceled the insane and costly electric vehicle mandate, keeping my sacred pledge to America's autoworkers.",15,61,the insane and costly electric vehicle mandate,IDENTITY_MARKER,NEGATIVE
+"And I canceled the insane and costly electric vehicle mandate, keeping my sacred pledge to America's autoworkers.",71,87,my sacred pledge,IDENTITY_MARKER,POSITIVE
+"And I canceled the insane and costly electric vehicle mandate, keeping my sacred pledge to America's autoworkers.",91,112,America's autoworkers,IDENTITY_MARKER,NEUTRAL
+"Boy, did we get a big vote with the autoworkers out there.",9,11,we,PRONOUN,POSITIVE
+"Boy, did we get a big vote with the autoworkers out there.",16,26,a big vote,IDENTITY_MARKER,POSITIVE
+"Boy, did we get a big vote with the autoworkers out there.",32,57,the autoworkers out there,IDENTITY_MARKER,NEUTRAL
+And the Teamsters.,4,17,the Teamsters,IDENTITY_MARKER,NEUTRAL
+Any Teamster in the room?,0,12,Any Teamster,IDENTITY_MARKER,NEUTRAL
+We got a tremendous vote from the Teamsters.,0,2,We,PRONOUN,POSITIVE
+We got a tremendous vote from the Teamsters.,7,24,a tremendous vote,IDENTITY_MARKER,POSITIVE
+We got a tremendous vote from the Teamsters.,30,43,the Teamsters,IDENTITY_MARKER,NEUTRAL
+And they're pointing like one guy.,4,8,they,PRONOUN,NEUTRAL
+And they're pointing like one guy.,26,33,one guy,IDENTITY_MARKER,NEUTRAL
+But they voted for us in the millions.,4,8,they,PRONOUN,NEUTRAL
+But they voted for us in the millions.,19,21,us,PRONOUN,POSITIVE
+"So, we have a -- we had a lot of Teamsters voting for us.",4,6,we,PRONOUN,NEUTRAL
+"So, we have a -- we had a lot of Teamsters voting for us.",17,19,we,PRONOUN,POSITIVE
+"So, we have a -- we had a lot of Teamsters voting for us.",24,42,a lot of Teamsters,IDENTITY_MARKER,NEUTRAL
+"So, we have a -- we had a lot of Teamsters voting for us.",54,56,us,PRONOUN,POSITIVE
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",0,4,They,PRONOUN,NEUTRAL
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",19,48,the World Health Organization,IDENTITY_MARKER,NEUTRAL
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",56,58,we,PRONOUN,POSITIVE
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",65,83,500 million a year,IDENTITY_MARKER,NEGATIVE
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",88,93,China,IDENTITY_MARKER,NEGATIVE
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",100,117,39 million a year,IDENTITY_MARKER,NEGATIVE
+"They withdrew from the World Health Organization, where we paid $500 million a year and China paid $39 million a year despite a much larger population.",126,150,a much larger population,IDENTITY_MARKER,NEUTRAL
+China is paying $39 million to have 1.4 billion people.,0,5,China,IDENTITY_MARKER,NEUTRAL
+China is paying $39 million to have 1.4 billion people.,36,54,1.4 billion people,IDENTITY_MARKER,NEUTRAL
+We pay $500 million.,0,2,We,PRONOUN,NEUTRAL
+We have -- nobody knows what the hell we have.,0,2,We,PRONOUN,NEUTRAL
+We have -- nobody knows what the hell we have.,11,17,nobody,IDENTITY_MARKER,NEGATIVE
+We have -- nobody knows what the hell we have.,38,40,we,PRONOUN,POSITIVE
+Does anyone know?,5,11,anyone,IDENTITY_MARKER,NEUTRAL
+We have so many people pouring in.,0,2,We,PRONOUN,NEUTRAL
+We have so many people pouring in.,8,22,so many people,IDENTITY_MARKER,NEUTRAL
+We have no idea.,0,2,We,PRONOUN,NEGATIVE
+"We go up, but we're going down a little bit now.",0,2,We,PRONOUN,POSITIVE
+"We go up, but we're going down a little bit now.",14,16,we,PRONOUN,NEGATIVE
+"You don't mind that, do you?",0,3,You,PRONOUN,NEUTRAL
+"You don't mind that, do you?",24,27,you,PRONOUN,NEUTRAL
+Going to take some bad ones out.,14,27,some bad ones,IDENTITY_MARKER,NEGATIVE
+"I withdrew four years ago, but Biden immediately went back for even more money.",31,36,Biden,IDENTITY_MARKER,NEGATIVE
+"I mean, he went back.",8,10,he,PRONOUN,NEUTRAL
+"And, you know, they offered me $39 million.",5,8,you,PRONOUN,POSITIVE
+"And, you know, they offered me $39 million.",15,19,they,PRONOUN,NEUTRAL
+"They said, ""We'll let you back in at $39 million.",0,4,They,PRONOUN,NEUTRAL
+"They said, ""We'll let you back in at $39 million.",12,14,We,PRONOUN,NEUTRAL
+"They said, ""We'll let you back in at $39 million.",22,25,you,PRONOUN,NEUTRAL
+"So, we're going to reduce it from $500 million to $39 million.""",4,6,we,PRONOUN,NEUTRAL
+"So, we're going to reduce it from $500 million to $39 million.""",26,28,it,PRONOUN,NEUTRAL
+I turned them down because it became so popular.,9,13,them,PRONOUN,NEUTRAL
+I turned them down because it became so popular.,27,29,it,PRONOUN,POSITIVE
+I didn't know if it would be well received even at $39 million.,17,19,it,PRONOUN,NEUTRAL
+But maybe we would consider doing it again.,10,12,we,PRONOUN,NEUTRAL
+But maybe we would consider doing it again.,34,36,it,PRONOUN,POSITIVE
+Maybe we would.,6,8,we,PRONOUN,NEUTRAL
+They have to clean it up a little bit.,0,4,They,PRONOUN,NEUTRAL
+They have to clean it up a little bit.,19,21,it,PRONOUN,NEGATIVE
+"But China pays $39 million for 1.4 billion, and we're paying $500 million for 325 million.",4,9,China,IDENTITY_MARKER,NEGATIVE
+"But China pays $39 million for 1.4 billion, and we're paying $500 million for 325 million.",31,42,1.4 billion,IDENTITY_MARKER,NEGATIVE
+"But China pays $39 million for 1.4 billion, and we're paying $500 million for 325 million.",48,50,we,PRONOUN,POSITIVE
+"But China pays $39 million for 1.4 billion, and we're paying $500 million for 325 million.",78,89,325 million,IDENTITY_MARKER,POSITIVE
+What the hell is wrong with these people?,28,40,these people,IDENTITY_MARKER,NEGATIVE
+"And then when Biden went back in, you know, they immediately went back in.",14,19,Biden,IDENTITY_MARKER,NEUTRAL
+"And then when Biden went back in, you know, they immediately went back in.",34,37,you,PRONOUN,NEUTRAL
+"And then when Biden went back in, you know, they immediately went back in.",44,48,they,PRONOUN,NEUTRAL
+They paid more than we were paying in the first place.,0,4,They,PRONOUN,NEUTRAL
+They paid more than we were paying in the first place.,20,22,we,PRONOUN,NEUTRAL
+They paid more than the $500 million.,0,4,They,PRONOUN,NEUTRAL
+"So, they knew they could have had it for $39 million.",4,8,they,PRONOUN,NEUTRAL
+"So, they knew they could have had it for $39 million.",14,18,they,PRONOUN,NEUTRAL
+"So, they knew they could have had it for $39 million.",34,36,it,PRONOUN,NEUTRAL
+They paid more.,0,4,They,PRONOUN,NEUTRAL
+"You wouldn't do that, Joe, right?",0,3,You,PRONOUN,NEUTRAL
+"You wouldn't do that, Joe, right?",22,25,Joe,IDENTITY_MARKER,NEUTRAL
+Now think of it.,13,15,it,PRONOUN,NEUTRAL
+They know they have a deal at $39 million.,0,4,They,PRONOUN,NEUTRAL
+They know they have a deal at $39 million.,10,14,they,PRONOUN,NEUTRAL
+They know they have a deal at $39 million.,20,41,a deal at $39 million,IDENTITY_MARKER,POSITIVE
+"So, they went back in at $525 million.",4,8,they,PRONOUN,NEUTRAL
+"It just -- it infuriates you, doesn't it?",0,2,It,PRONOUN,NEGATIVE
+"It just -- it infuriates you, doesn't it?",11,13,it,PRONOUN,NEGATIVE
+"It just -- it infuriates you, doesn't it?",25,28,you,PRONOUN,NEUTRAL
+"It just -- it infuriates you, doesn't it?",38,40,it,PRONOUN,NEGATIVE
+I declared a national energy emergency to unlock the liquid gold under our feet and paved the way for rapid approvals of the new energy infrastructure.,11,38,a national energy emergency,IDENTITY_MARKER,POSITIVE
+I declared a national energy emergency to unlock the liquid gold under our feet and paved the way for rapid approvals of the new energy infrastructure.,49,64,the liquid gold,IDENTITY_MARKER,POSITIVE
+I declared a national energy emergency to unlock the liquid gold under our feet and paved the way for rapid approvals of the new energy infrastructure.,71,79,our feet,IDENTITY_MARKER,NEUTRAL
+I declared a national energy emergency to unlock the liquid gold under our feet and paved the way for rapid approvals of the new energy infrastructure.,102,117,rapid approvals,IDENTITY_MARKER,POSITIVE
+I declared a national energy emergency to unlock the liquid gold under our feet and paved the way for rapid approvals of the new energy infrastructure.,121,150,the new energy infrastructure,IDENTITY_MARKER,POSITIVE
+"The United States has the largest amount of oil and gas of any country on Earth, and we may be a very substantially enlarged country in the not-too-distant -- isn't it nice to see?",0,17,The United States,IDENTITY_MARKER,POSITIVE
+"The United States has the largest amount of oil and gas of any country on Earth, and we may be a very substantially enlarged country in the not-too-distant -- isn't it nice to see?",22,79,the largest amount of oil and gas of any country on Earth,IDENTITY_MARKER,POSITIVE
+"The United States has the largest amount of oil and gas of any country on Earth, and we may be a very substantially enlarged country in the not-too-distant -- isn't it nice to see?",85,87,we,PRONOUN,POSITIVE
+"The United States has the largest amount of oil and gas of any country on Earth, and we may be a very substantially enlarged country in the not-too-distant -- isn't it nice to see?",95,132,a very substantially enlarged country,IDENTITY_MARKER,POSITIVE
+"The United States has the largest amount of oil and gas of any country on Earth, and we may be a very substantially enlarged country in the not-too-distant -- isn't it nice to see?",165,167,it,PRONOUN,POSITIVE
+"You know, for years, for decades, we're the same size to the square foot.",0,3,You,PRONOUN,POSITIVE
+"You know, for years, for decades, we're the same size to the square foot.",34,36,we,PRONOUN,NEUTRAL
+But we might be an enlarged country pretty soon.,4,6,we,PRONOUN,NEUTRAL
+But we might be an enlarged country pretty soon.,16,35,an enlarged country,IDENTITY_MARKER,NEUTRAL
+"And one of the things we're going to be doing is drill, baby, drill because that's going to bring everything down.",4,21,one of the things,IDENTITY_MARKER,POSITIVE
+"And one of the things we're going to be doing is drill, baby, drill because that's going to bring everything down.",22,24,we,PRONOUN,POSITIVE
+"And one of the things we're going to be doing is drill, baby, drill because that's going to bring everything down.",76,80,that,IDENTITY_MARKER,POSITIVE
+"And one of the things we're going to be doing is drill, baby, drill because that's going to bring everything down.",98,108,everything,IDENTITY_MARKER,NEGATIVE
+"My administration has also begun the largest deregulation campaign in the history of our country, far exceeding -- I had the record for you.",0,17,My administration,IDENTITY_MARKER,POSITIVE
+"My administration has also begun the largest deregulation campaign in the history of our country, far exceeding -- I had the record for you.",33,66,the largest deregulation campaign,IDENTITY_MARKER,POSITIVE
+"My administration has also begun the largest deregulation campaign in the history of our country, far exceeding -- I had the record for you.",70,96,the history of our country,IDENTITY_MARKER,NEUTRAL
+"My administration has also begun the largest deregulation campaign in the history of our country, far exceeding -- I had the record for you.",121,131,the record,IDENTITY_MARKER,NEUTRAL
+"My administration has also begun the largest deregulation campaign in the history of our country, far exceeding -- I had the record for you.",136,139,you,PRONOUN,NEUTRAL
+"We had a great economy, the greatest economy that we've ever had four years ago.",0,2,We,PRONOUN,POSITIVE
+"We had a great economy, the greatest economy that we've ever had four years ago.",7,22,a great economy,IDENTITY_MARKER,POSITIVE
+"We had a great economy, the greatest economy that we've ever had four years ago.",24,44,the greatest economy,IDENTITY_MARKER,POSITIVE
+"We had a great economy, the greatest economy that we've ever had four years ago.",50,52,we,PRONOUN,POSITIVE
+But this is going to be better.,4,8,this,IDENTITY_MARKER,POSITIVE
+You watch.,0,3,You,PRONOUN,NEUTRAL
+This will be better even than the first term.,0,4,This,IDENTITY_MARKER,POSITIVE
+This will be better even than the first term.,30,44,the first term,IDENTITY_MARKER,NEUTRAL
+And the reason I got elected was because of the first term.,4,28,the reason I got elected,IDENTITY_MARKER,POSITIVE
+And the reason I got elected was because of the first term.,44,58,the first term,IDENTITY_MARKER,NEUTRAL
+"You know, somebody said, ""What was the reason you got elected?",0,3,You,PRONOUN,POSITIVE
+"You know, somebody said, ""What was the reason you got elected?",10,18,somebody,IDENTITY_MARKER,NEUTRAL
+"You know, somebody said, ""What was the reason you got elected?",46,49,you,PRONOUN,NEUTRAL
+"I mean, you won by so much.""",8,11,you,PRONOUN,POSITIVE
+"I said, ""My first term.""",9,22,My first term,IDENTITY_MARKER,NEUTRAL
+"You know, that's all I did.",0,3,You,PRONOUN,POSITIVE
+"I just said, ""Well, take a look at the numbers.",35,46,the numbers,IDENTITY_MARKER,NEUTRAL
+"Take a look at the numbers.""",15,26,the numbers,IDENTITY_MARKER,NEUTRAL
+"In total, the Biden administration imposed $50,000 in additional regulation costs on the average American.",10,34,the Biden administration,IDENTITY_MARKER,NEGATIVE
+"In total, the Biden administration imposed $50,000 in additional regulation costs on the average American.",43,81,"$50,000 in additional regulation costs",IDENTITY_MARKER,NEGATIVE
+"In total, the Biden administration imposed $50,000 in additional regulation costs on the average American.",85,105,the average American,IDENTITY_MARKER,POSITIVE
+And think of this.,13,17,this,IDENTITY_MARKER,NEUTRAL
+"The average American was paying much more than $50,000.",0,20,The average American,IDENTITY_MARKER,POSITIVE
+"The average American was paying much more than $50,000.",47,54,"$50,000",IDENTITY_MARKER,NEGATIVE
+"And, you know, just think of it.",5,8,you,PRONOUN,POSITIVE
+"And, you know, just think of it.",29,31,it,PRONOUN,NEUTRAL
+Nobody can even believe the numbers.,0,6,Nobody,IDENTITY_MARKER,NEUTRAL
+Nobody can even believe the numbers.,24,35,the numbers,IDENTITY_MARKER,POSITIVE
+I promised to eliminate 10 old regulations for every new regulation.,24,42,10 old regulations,IDENTITY_MARKER,NEGATIVE
+I promised to eliminate 10 old regulations for every new regulation.,47,67,every new regulation,IDENTITY_MARKER,POSITIVE
+"So, if we put in a regulation, we have to get rid of 10.",7,9,we,PRONOUN,POSITIVE
+"So, if we put in a regulation, we have to get rid of 10.",17,29,a regulation,IDENTITY_MARKER,POSITIVE
+"So, if we put in a regulation, we have to get rid of 10.",31,33,we,PRONOUN,NEGATIVE
+"So, if we put in a regulation, we have to get rid of 10.",53,55,10,IDENTITY_MARKER,NEGATIVE
+That's what I did.,0,4,That,IDENTITY_MARKER,NEUTRAL
+"We're going to do one in 10 this time, which will soon put many thousands of dollars back into your pockets, in the pockets of American families.",0,2,We,PRONOUN,POSITIVE
+"We're going to do one in 10 this time, which will soon put many thousands of dollars back into your pockets, in the pockets of American families.",18,27,one in 10,IDENTITY_MARKER,NEUTRAL
+"We're going to do one in 10 this time, which will soon put many thousands of dollars back into your pockets, in the pockets of American families.",59,84,many thousands of dollars,IDENTITY_MARKER,POSITIVE
+"We're going to do one in 10 this time, which will soon put many thousands of dollars back into your pockets, in the pockets of American families.",95,107,your pockets,IDENTITY_MARKER,POSITIVE
+"We're going to do one in 10 this time, which will soon put many thousands of dollars back into your pockets, in the pockets of American families.",112,144,the pockets of American families,IDENTITY_MARKER,POSITIVE
+"As a result of the reforms, we've just begun to implement economic confidence, and it's soaring.",15,26,the reforms,IDENTITY_MARKER,POSITIVE
+"As a result of the reforms, we've just begun to implement economic confidence, and it's soaring.",28,30,we,PRONOUN,POSITIVE
+"As a result of the reforms, we've just begun to implement economic confidence, and it's soaring.",58,77,economic confidence,IDENTITY_MARKER,POSITIVE
+"As a result of the reforms, we've just begun to implement economic confidence, and it's soaring.",83,85,it,PRONOUN,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",15,21,Oracle,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",23,29,OpenAI,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",35,43,SoftBank,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",54,62,Stargate,IDENTITY_MARKER,NEUTRAL
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",64,110,a $500 billion investment in AI infrastructure,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",146,152,Nevada,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",169,172,you,PRONOUN,NEUTRAL
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",174,196,the largest in history,IDENTITY_MARKER,POSITIVE
+"So, this week, Oracle, OpenAI, and SoftBank announced Stargate, a $500 billion investment in AI infrastructure, which is going to be very big for Nevada, I have to tell you, the largest in history, and which will create an estimated 100,000 American jobs.",220,254,"an estimated 100,000 American jobs",IDENTITY_MARKER,POSITIVE
+"Saudi Arabia just said that they're going to invest at least $600 billion just because of the election, by the way.",0,12,Saudi Arabia,IDENTITY_MARKER,POSITIVE
+"Saudi Arabia just said that they're going to invest at least $600 billion just because of the election, by the way.",28,32,they,PRONOUN,POSITIVE
+"Saudi Arabia just said that they're going to invest at least $600 billion just because of the election, by the way.",52,73,at least $600 billion,IDENTITY_MARKER,POSITIVE
+"Saudi Arabia just said that they're going to invest at least $600 billion just because of the election, by the way.",90,102,the election,IDENTITY_MARKER,POSITIVE
+And I believe they'll make it a trillion.,14,18,they,PRONOUN,NEUTRAL
+And I believe they'll make it a trillion.,27,29,it,PRONOUN,NEUTRAL
+And I believe they'll make it a trillion.,30,40,a trillion,IDENTITY_MARKER,POSITIVE
+I'm going to ask them to make it $1 trillion.,17,21,them,PRONOUN,NEUTRAL
+I'm going to ask them to make it $1 trillion.,30,32,it,PRONOUN,POSITIVE
+I'm going to ask them to make it $1 trillion.,33,44,$1 trillion,IDENTITY_MARKER,NEUTRAL
+The money means nothing to them.,0,9,The money,IDENTITY_MARKER,NEUTRAL
+The money means nothing to them.,27,31,them,PRONOUN,NEUTRAL
+You know where they made their money?,0,3,You,PRONOUN,NEUTRAL
+You know where they made their money?,15,19,they,PRONOUN,NEUTRAL
+You know where they made their money?,25,36,their money,IDENTITY_MARKER,NEUTRAL
+"From liquid gold, right?",5,16,liquid gold,IDENTITY_MARKER,POSITIVE
+They've got a lot of liquid gold.,0,4,They,PRONOUN,NEUTRAL
+They've got a lot of liquid gold.,12,32,a lot of liquid gold,IDENTITY_MARKER,POSITIVE
+We have more.,0,2,We,PRONOUN,POSITIVE
+We have more.,8,12,more,IDENTITY_MARKER,POSITIVE
+We have more than Saudi Arabia.,0,2,We,PRONOUN,POSITIVE
+We have more than Saudi Arabia.,8,12,more,IDENTITY_MARKER,POSITIVE
+We have more than Saudi Arabia.,18,30,Saudi Arabia,IDENTITY_MARKER,NEUTRAL
+We've got more than anybody.,0,2,We,PRONOUN,POSITIVE
+We've got more than anybody.,10,14,more,IDENTITY_MARKER,POSITIVE
+We've got more than anybody.,20,27,anybody,IDENTITY_MARKER,NEUTRAL
+We just don't use it because of the environment.,0,2,We,PRONOUN,NEUTRAL
+We just don't use it because of the environment.,18,20,it,PRONOUN,NEUTRAL
+We just don't use it because of the environment.,32,47,the environment,IDENTITY_MARKER,NEUTRAL
+These people are crazy.,0,12,These people,IDENTITY_MARKER,NEGATIVE
+"And many other companies, likewise, are looking to invest, but I don't have enough time to do that.",4,24,many other companies,IDENTITY_MARKER,NEUTRAL
+"And many other companies, likewise, are looking to invest, but I don't have enough time to do that.",94,98,that,IDENTITY_MARKER,NEGATIVE
+And we have a lot of news conferences.,4,6,we,PRONOUN,NEUTRAL
+And we have a lot of news conferences.,12,37,a lot of news conferences,IDENTITY_MARKER,NEUTRAL
+Everybody wants to have a news conference.,0,9,Everybody,IDENTITY_MARKER,NEUTRAL
+Everybody wants to have a news conference.,24,41,a news conference,IDENTITY_MARKER,POSITIVE
+"You know, they're calling up by the hundreds.",0,3,You,PRONOUN,POSITIVE
+"You know, they're calling up by the hundreds.",10,14,they,PRONOUN,NEUTRAL
+"You know, they're calling up by the hundreds.",29,44,by the hundreds,IDENTITY_MARKER,NEUTRAL
+"""We want to have a news conference.",1,3,We,PRONOUN,NEUTRAL
+"""We want to have a news conference.",17,34,a news conference,IDENTITY_MARKER,NEUTRAL
+"We're going to invest $12.""",0,2,We,PRONOUN,NEUTRAL
+"We're going to invest $12.""",22,25,$12,IDENTITY_MARKER,NEUTRAL
+"I said, ""No, I don't do that.""",24,28,that,IDENTITY_MARKER,NEGATIVE
+"I said, ""It's got to be $1 billion or more for a news conference.",9,11,It,PRONOUN,NEUTRAL
+"I said, ""It's got to be $1 billion or more for a news conference.",47,64,a news conference,IDENTITY_MARKER,NEUTRAL
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",30,46,our tariff plans,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",48,58,Stellantis,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",70,74,that,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",77,107,a very good automobile company,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",109,137,the revival of its Belvidere,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",139,153,Illinois plant,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",162,186,"1,500 American auto jobs",IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",218,224,Canada,IDENTITY_MARKER,NEUTRAL
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",237,254,major investments,IDENTITY_MARKER,POSITIVE
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",265,289,American auto production,IDENTITY_MARKER,NEUTRAL
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",293,310,"Detroit, Michigan",IDENTITY_MARKER,NEUTRAL
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",312,324,"Toledo, Ohio",IDENTITY_MARKER,NEUTRAL
+"Just two days ago, because of our tariff plans, Stellantis announced, that's a very good automobile company, the revival of its Belvidere, Illinois plant, saving 1,500 American auto jobs that were previously headed to Canada, along with major investments to expand American auto production in Detroit, Michigan; Toledo, Ohio; and Kokomo, Indiana.",330,345,"Kokomo, Indiana",IDENTITY_MARKER,NEUTRAL
+Good place.,5,10,place,IDENTITY_MARKER,POSITIVE
+All of these investments are happening only because of our historic victory.,0,24,All of these investments,IDENTITY_MARKER,POSITIVE
+All of these investments are happening only because of our historic victory.,55,75,our historic victory,IDENTITY_MARKER,POSITIVE
+"And if we didn't win, it would be just the opposite.",7,9,we,PRONOUN,NEGATIVE
+"And if we didn't win, it would be just the opposite.",22,24,it,PRONOUN,NEGATIVE
+"And if we didn't win, it would be just the opposite.",39,51,the opposite,IDENTITY_MARKER,NEGATIVE
+They're pulling out.,0,4,They,PRONOUN,NEUTRAL
+They were pulling out.,0,4,They,PRONOUN,NEUTRAL
+They were really pulling out.,0,4,They,PRONOUN,NEUTRAL
+"So, they would be withdrawing money.",4,8,they,PRONOUN,NEGATIVE
+"So, they would be withdrawing money.",30,35,money,IDENTITY_MARKER,NEUTRAL
+"Our country was on the verge of some of the very bad things, and bad things were happening.",0,11,Our country,IDENTITY_MARKER,POSITIVE
+"Our country was on the verge of some of the very bad things, and bad things were happening.",32,59,some of the very bad things,IDENTITY_MARKER,NEGATIVE
+"Our country was on the verge of some of the very bad things, and bad things were happening.",65,75,bad things,IDENTITY_MARKER,NEGATIVE
+"And now, there's light not only over America.",17,22,light,IDENTITY_MARKER,POSITIVE
+"And now, there's light not only over America.",23,44,not only over America,IDENTITY_MARKER,NEUTRAL
+I've heard it from even our enemies.,11,13,it,PRONOUN,NEUTRAL
+I've heard it from even our enemies.,24,35,our enemies,IDENTITY_MARKER,NEGATIVE
+"They call up, and they say, ""Sir, we hate you.",0,4,They,PRONOUN,NEGATIVE
+"They call up, and they say, ""Sir, we hate you.",18,22,they,PRONOUN,NEGATIVE
+"They call up, and they say, ""Sir, we hate you.",29,32,Sir,IDENTITY_MARKER,POSITIVE
+"They call up, and they say, ""Sir, we hate you.",34,36,we,PRONOUN,NEGATIVE
+"They call up, and they say, ""Sir, we hate you.",42,45,you,PRONOUN,POSITIVE
+"We do hate you, but there's light over the world right now.""",0,2,We,PRONOUN,NEGATIVE
+"We do hate you, but there's light over the world right now.""",11,14,you,PRONOUN,POSITIVE
+"We do hate you, but there's light over the world right now.""",28,33,light,IDENTITY_MARKER,POSITIVE
+"We do hate you, but there's light over the world right now.""",39,48,the world,IDENTITY_MARKER,NEUTRAL
+They hate me.,0,4,They,PRONOUN,NEGATIVE
+They hate me.,10,12,me,PRONOUN,POSITIVE
+Some of them hate me.,0,12,Some of them,IDENTITY_MARKER,NEGATIVE
+Some of them hate me.,18,20,me,PRONOUN,POSITIVE
+"If they liked me, you've got a problem, right?",3,7,they,PRONOUN,NEGATIVE
+"If they liked me, you've got a problem, right?",14,16,me,PRONOUN,NEUTRAL
+"If they liked me, you've got a problem, right?",18,21,you,PRONOUN,NEUTRAL
+They like Sleepy Joe.,0,4,They,PRONOUN,NEUTRAL
+They like Sleepy Joe.,10,20,Sleepy Joe,IDENTITY_MARKER,NEGATIVE
+"You know, they'd call up.",0,3,You,PRONOUN,POSITIVE
+"You know, they'd call up.",10,14,they,PRONOUN,NEUTRAL
+It's funny.,0,2,It,PRONOUN,POSITIVE
+I was told today by one of the big leaders of the world.,20,55,one of the big leaders of the world,IDENTITY_MARKER,NEUTRAL
+Would call for a telephone call with the president of the United States a year ago.,37,71,the president of the United States,IDENTITY_MARKER,NEUTRAL
+"And they'd say, ""We'd like to speak with -- "" ""Who is this?""",4,8,they,PRONOUN,NEUTRAL
+"And they'd say, ""We'd like to speak with -- "" ""Who is this?""",17,19,We,PRONOUN,NEUTRAL
+"And they'd say, ""We'd like to speak with -- "" ""Who is this?""",47,50,Who,IDENTITY_MARKER,NEUTRAL
+"It's the head of Germany, the head of, name it, the head of France, the name of any country.",5,24,the head of Germany,IDENTITY_MARKER,NEUTRAL
+"It's the head of Germany, the head of, name it, the head of France, the name of any country.",48,66,the head of France,IDENTITY_MARKER,NEUTRAL
+"It's the head of Germany, the head of, name it, the head of France, the name of any country.",68,91,the name of any country,IDENTITY_MARKER,NEUTRAL
+It didn't matter.,0,2,It,PRONOUN,NEGATIVE
+He would never pick up the call.,0,2,He,PRONOUN,NEGATIVE
+He would never pick up the call.,23,31,the call,IDENTITY_MARKER,NEUTRAL
+"They'd say, ""He'll call you back in two months.""",0,4,They,PRONOUN,NEUTRAL
+"They'd say, ""He'll call you back in two months.""",13,15,He,PRONOUN,NEUTRAL
+"They'd say, ""He'll call you back in two months.""",24,27,you,PRONOUN,NEUTRAL
+"""Yeah, it's his schedule.",7,9,it,PRONOUN,NEUTRAL
+"""Yeah, it's his schedule.",12,24,his schedule,IDENTITY_MARKER,NEUTRAL
+"He's extremely busy sleeping.""",0,2,He,PRONOUN,NEUTRAL
+Macron of France.,0,16,Macron of France,IDENTITY_MARKER,NEUTRAL
+"""He'll call you back in two months.""",1,3,He,PRONOUN,NEUTRAL
+"""He'll call you back in two months.""",12,15,you,PRONOUN,NEUTRAL
+"They'd say, ""He didn't call.""",0,4,They,PRONOUN,NEUTRAL
+"They'd say, ""He didn't call.""",13,15,He,PRONOUN,NEGATIVE
+"The stories are -- I mean, these stories are not very exaggerated.",27,40,these stories,IDENTITY_MARKER,NEUTRAL
+I want to tell you.,15,18,you,PRONOUN,NEUTRAL
+They're a little bit -- a little bit for laughter.,0,4,They,PRONOUN,NEUTRAL
+"But, you know, it's only for laughter.",5,8,you,PRONOUN,POSITIVE
+"But, you know, it's only for laughter.",15,17,it,PRONOUN,POSITIVE
+"But, you know, it's only for laughter.",29,37,laughter,IDENTITY_MARKER,POSITIVE
+"The fake news will say, ""Oh, he exaggerated.",0,13,The fake news,IDENTITY_MARKER,NEGATIVE
+"The fake news will say, ""Oh, he exaggerated.",29,31,he,PRONOUN,NEGATIVE
+"It was only one month.""",0,2,It,PRONOUN,NEUTRAL
+You know.,0,3,You,PRONOUN,POSITIVE
+"But they'll say, ""He'll call you back.""",4,8,they,PRONOUN,NEUTRAL
+"But they'll say, ""He'll call you back.""",18,20,He,PRONOUN,NEUTRAL
+"But they'll say, ""He'll call you back.""",29,32,you,PRONOUN,NEUTRAL
+And then he'd never call.,9,11,he,PRONOUN,NEGATIVE
+And then they could never get him on the phone.,9,13,they,PRONOUN,POSITIVE
+And then they could never get him on the phone.,30,33,him,PRONOUN,NEGATIVE
+"And the problem I have is that when I speak to them, and I speak to them immediately, they'll say, ""Could we speak to the president?",47,51,them,PRONOUN,NEUTRAL
+"And the problem I have is that when I speak to them, and I speak to them immediately, they'll say, ""Could we speak to the president?",68,72,them,PRONOUN,NEUTRAL
+"And the problem I have is that when I speak to them, and I speak to them immediately, they'll say, ""Could we speak to the president?",86,90,they,PRONOUN,NEUTRAL
+"And the problem I have is that when I speak to them, and I speak to them immediately, they'll say, ""Could we speak to the president?",106,108,we,PRONOUN,NEUTRAL
+"And the problem I have is that when I speak to them, and I speak to them immediately, they'll say, ""Could we speak to the president?",118,131,the president,IDENTITY_MARKER,NEUTRAL
+Would that be possible?,6,10,that,IDENTITY_MARKER,NEUTRAL
+"We could do it any time over the next month.""",0,2,We,PRONOUN,NEUTRAL
+"We could do it any time over the next month.""",12,14,it,PRONOUN,NEUTRAL
+"They're so used to this, right?",0,4,They,PRONOUN,NEUTRAL
+"They're so used to this, right?",19,23,this,IDENTITY_MARKER,NEUTRAL
+"Is he on the phone?""",3,5,he,PRONOUN,NEUTRAL
+"How are you doing?""",8,11,you,PRONOUN,NEUTRAL
+"That's what -- you know, get it over with, right?",15,18,you,PRONOUN,NEUTRAL
+"That's what -- you know, get it over with, right?",29,31,it,PRONOUN,NEGATIVE
+Get it over with.,4,6,it,PRONOUN,NEGATIVE
+"The only problem, they were so starved for love from the United States, I cannot get them off the phone.",18,22,they,PRONOUN,POSITIVE
+"The only problem, they were so starved for love from the United States, I cannot get them off the phone.",53,70,the United States,IDENTITY_MARKER,POSITIVE
+"The only problem, they were so starved for love from the United States, I cannot get them off the phone.",85,89,them,PRONOUN,NEGATIVE
+I can't get people to -- I can't.,12,18,people,IDENTITY_MARKER,NEGATIVE
+"I say, ""I have to go now, King,"" or ""I have to go now, President.""",26,30,King,IDENTITY_MARKER,NEUTRAL
+"I say, ""I have to go now, King,"" or ""I have to go now, President.""",55,64,President,IDENTITY_MARKER,NEUTRAL
+But you can't get them off the phone.,4,7,you,PRONOUN,POSITIVE
+But you can't get them off the phone.,18,22,them,PRONOUN,NEGATIVE
+They're starved for love.,0,4,They,PRONOUN,POSITIVE
+They're starved for love.,20,24,love,IDENTITY_MARKER,POSITIVE
+"You know, for years, they haven't spoken.",0,3,You,PRONOUN,POSITIVE
+"You know, for years, they haven't spoken.",21,25,they,PRONOUN,NEUTRAL
+"They didn't even know we had a president, if you want to know.",0,4,They,PRONOUN,NEGATIVE
+"They didn't even know we had a president, if you want to know.",22,24,we,PRONOUN,NEUTRAL
+"They didn't even know we had a president, if you want to know.",29,40,a president,IDENTITY_MARKER,NEUTRAL
+"They didn't even know we had a president, if you want to know.",45,48,you,PRONOUN,NEUTRAL
+"But under our leadership, America is back open for business.",10,24,our leadership,IDENTITY_MARKER,
+"But under our leadership, America is back open for business.",26,33,America,IDENTITY_MARKER,
+And it's really a big deal.,4,6,it,PRONOUN,POSITIVE
+And it's really a big deal.,16,26,a big deal,IDENTITY_MARKER,POSITIVE
+It's really a big deal.,0,2,It,PRONOUN,POSITIVE
+It's really a big deal.,12,22,a big deal,IDENTITY_MARKER,POSITIVE
+"And they have, though.",4,8,they,PRONOUN,NEUTRAL
+"They said, you know, there's like a light all over the world now.",0,4,They,PRONOUN,NEUTRAL
+"They said, you know, there's like a light all over the world now.",11,14,you,PRONOUN,POSITIVE
+"They said, you know, there's like a light all over the world now.",34,41,a light,IDENTITY_MARKER,POSITIVE
+"They said, you know, there's like a light all over the world now.",42,64,all over the world now,IDENTITY_MARKER,NEUTRAL
+It's not just here.,0,2,It,PRONOUN,NEUTRAL
+It's not just here.,14,18,here,IDENTITY_MARKER,NEGATIVE
+We feel the light over our country.,0,2,We,PRONOUN,POSITIVE
+We feel the light over our country.,8,17,the light,IDENTITY_MARKER,POSITIVE
+We feel the light over our country.,23,34,our country,IDENTITY_MARKER,NEUTRAL
+Everyone does.,0,8,Everyone,IDENTITY_MARKER,NEUTRAL
+But there's a light all over the world.,12,19,a light,IDENTITY_MARKER,POSITIVE
+But there's a light all over the world.,20,38,all over the world,IDENTITY_MARKER,NEUTRAL
+We've accomplished more in one week than other administrations have accomplished in four years.,0,2,We,PRONOUN,POSITIVE
+We've accomplished more in one week than other administrations have accomplished in four years.,41,62,other administrations,IDENTITY_MARKER,NEGATIVE
+And we're just getting started.,4,6,we,PRONOUN,POSITIVE
+We got rid of the woke.,0,2,We,PRONOUN,POSITIVE
+We got rid of the woke.,14,22,the woke,IDENTITY_MARKER,NEGATIVE
+We got rid of the woke crap.,0,2,We,PRONOUN,POSITIVE
+We got rid of the woke crap.,14,27,the woke crap,IDENTITY_MARKER,NEGATIVE
+What a lot of stuff.,5,19,a lot of stuff,IDENTITY_MARKER,NEGATIVE
+What a lot of crap that was.,5,18,a lot of crap,IDENTITY_MARKER,NEGATIVE
+What a lot of crap that was.,19,23,that,IDENTITY_MARKER,NEGATIVE
+"And, you know, these people were petrified of it.",5,8,you,PRONOUN,POSITIVE
+"And, you know, these people were petrified of it.",15,27,these people,IDENTITY_MARKER,POSITIVE
+"And, you know, these people were petrified of it.",46,48,it,PRONOUN,NEGATIVE
+"I'll tell you, these companies that run these big companies, they were petrified of it.",10,13,you,PRONOUN,NEUTRAL
+"I'll tell you, these companies that run these big companies, they were petrified of it.",15,30,these companies,IDENTITY_MARKER,POSITIVE
+"I'll tell you, these companies that run these big companies, they were petrified of it.",40,59,these big companies,IDENTITY_MARKER,POSITIVE
+"I'll tell you, these companies that run these big companies, they were petrified of it.",61,65,they,PRONOUN,POSITIVE
+"I'll tell you, these companies that run these big companies, they were petrified of it.",84,86,it,PRONOUN,NEGATIVE
+"It was like -- you know, I don't think they believed it.",0,2,It,PRONOUN,NEUTRAL
+"It was like -- you know, I don't think they believed it.",15,18,you,PRONOUN,POSITIVE
+"It was like -- you know, I don't think they believed it.",39,43,they,PRONOUN,NEUTRAL
+"It was like -- you know, I don't think they believed it.",53,55,it,PRONOUN,NEUTRAL
+I'm sure they didn't believe it.,9,13,they,PRONOUN,NEUTRAL
+I'm sure they didn't believe it.,29,31,it,PRONOUN,NEUTRAL
+"Some I know didn't believe it, but they were so afraid.",27,29,it,PRONOUN,NEUTRAL
+"Some I know didn't believe it, but they were so afraid.",35,39,they,PRONOUN,POSITIVE
+Near the top of the agenda for our historic Republican majorities in Congress is to pass a massive tax cut for American workers and families.,5,26,the top of the agenda,IDENTITY_MARKER,NEUTRAL
+Near the top of the agenda for our historic Republican majorities in Congress is to pass a massive tax cut for American workers and families.,31,77,our historic Republican majorities in Congress,IDENTITY_MARKER,POSITIVE
+Near the top of the agenda for our historic Republican majorities in Congress is to pass a massive tax cut for American workers and families.,89,106,a massive tax cut,IDENTITY_MARKER,POSITIVE
+Near the top of the agenda for our historic Republican majorities in Congress is to pass a massive tax cut for American workers and families.,111,127,American workers,IDENTITY_MARKER,POSITIVE
+Near the top of the agenda for our historic Republican majorities in Congress is to pass a massive tax cut for American workers and families.,132,140,families,IDENTITY_MARKER,POSITIVE
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",11,13,we,PRONOUN,NEUTRAL
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",25,43,across the country,IDENTITY_MARKER,NEUTRAL
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",78,81,you,PRONOUN,POSITIVE
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",110,118,a pledge,IDENTITY_MARKER,POSITIVE
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",127,145,the Trump tax cuts,IDENTITY_MARKER,POSITIVE
+"Last year, we campaigned across the country in a pledge that I'm sure most of you didn't hear too much about, a pledge to take the Trump tax cuts and make them permanent.",155,159,them,PRONOUN,POSITIVE
+And that's exactly what we're doing.,4,8,that,IDENTITY_MARKER,POSITIVE
+And that's exactly what we're doing.,24,26,we,PRONOUN,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",42,50,Congress,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",58,64,a bill,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",68,75,my desk,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",86,91,taxes,IDENTITY_MARKER,NEGATIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",96,103,workers,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",105,113,families,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",115,131,small businesses,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",161,171,my promise,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",176,183,a thing,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",205,208,you,PRONOUN,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",236,240,this,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",255,257,it,PRONOUN,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",278,287,the state,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",303,305,we,PRONOUN,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",310,337,this crazy massive majority,IDENTITY_MARKER,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",339,346,a state,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",371,383,a Republican,IDENTITY_MARKER,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",409,412,you,PRONOUN,NEUTRAL
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",432,434,we,PRONOUN,POSITIVE
+"In the coming weeks, I'll be working with Congress to get a bill on my desk that cuts taxes for workers, families, small businesses, and very importantly, keeps my promise for a thing called -- and I know you didn't hear anything about this, and I'm sure it had no influence on the state, the fact that we won this crazy massive majority, a state that hadn't been won by a Republican in decades, but I'm sure you haven't heard, but we're going to get it for you.",458,461,you,PRONOUN,POSITIVE
+No tax on tips.,0,6,No tax,IDENTITY_MARKER,POSITIVE
+No tax on tips.,10,14,tips,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",7,10,you,PRONOUN,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",14,33,a restaurant worker,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",35,43,a server,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",45,52,a valet,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",54,63,a bellhop,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",65,76,a bartender,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",81,98,one of my caddies,IDENTITY_MARKER,NEUTRAL
+"So, if you're a restaurant worker, a server, a valet, a bellhop, a bartender, or one of my caddies -- I go through caddies like candy.",115,122,caddies,IDENTITY_MARKER,NEUTRAL
+"If I play badly, I always blame my caddy.",32,40,my caddy,IDENTITY_MARKER,NEGATIVE
+"Or any other worker who relies on tipped income, your tips will be 100 percent yours.",3,19,any other worker,IDENTITY_MARKER,NEUTRAL
+"Or any other worker who relies on tipped income, your tips will be 100 percent yours.",34,47,tipped income,IDENTITY_MARKER,NEUTRAL
+"Or any other worker who relies on tipped income, your tips will be 100 percent yours.",49,58,your tips,IDENTITY_MARKER,NEUTRAL
+"Or any other worker who relies on tipped income, your tips will be 100 percent yours.",79,84,yours,PRONOUN,POSITIVE
+Won't that be nice?,6,10,that,IDENTITY_MARKER,POSITIVE
+"Joe, Governor, do you think that had an impact on the election?",0,3,Joe,IDENTITY_MARKER,NEUTRAL
+"Joe, Governor, do you think that had an impact on the election?",5,13,Governor,IDENTITY_MARKER,NEUTRAL
+"Joe, Governor, do you think that had an impact on the election?",18,21,you,PRONOUN,NEUTRAL
+"Joe, Governor, do you think that had an impact on the election?",28,32,that,IDENTITY_MARKER,NEUTRAL
+"Joe, Governor, do you think that had an impact on the election?",50,62,the election,IDENTITY_MARKER,NEUTRAL
+You do?,0,3,You,PRONOUN,NEUTRAL
+It's pretty big.,0,2,It,PRONOUN,POSITIVE
+"You had an impact, let me tell you.",0,3,You,PRONOUN,POSITIVE
+"You had an impact, let me tell you.",8,17,an impact,IDENTITY_MARKER,POSITIVE
+"You had an impact, let me tell you.",31,34,you,PRONOUN,NEUTRAL
+"Nationwide, over 4 million workers depend on tipped income, including an estimated 700,000 single moms.",0,10,Nationwide,IDENTITY_MARKER,NEUTRAL
+"Nationwide, over 4 million workers depend on tipped income, including an estimated 700,000 single moms.",12,34,over 4 million workers,IDENTITY_MARKER,NEUTRAL
+"Nationwide, over 4 million workers depend on tipped income, including an estimated 700,000 single moms.",45,58,tipped income,IDENTITY_MARKER,NEUTRAL
+"Nationwide, over 4 million workers depend on tipped income, including an estimated 700,000 single moms.",70,102,"an estimated 700,000 single moms",IDENTITY_MARKER,NEUTRAL
+"And here in Nevada, we will have a quarter -- think of it.",12,18,Nevada,IDENTITY_MARKER,NEUTRAL
+"And here in Nevada, we will have a quarter -- think of it.",20,22,we,PRONOUN,NEUTRAL
+"And here in Nevada, we will have a quarter -- think of it.",33,42,a quarter,IDENTITY_MARKER,NEUTRAL
+"And here in Nevada, we will have a quarter -- think of it.",55,57,it,PRONOUN,NEUTRAL
+A quarter of the typical restaurant worker's pay comes from tips.,0,48,A quarter of the typical restaurant worker's pay,IDENTITY_MARKER,NEUTRAL
+A quarter of the typical restaurant worker's pay comes from tips.,60,64,tips,IDENTITY_MARKER,NEUTRAL
+I didn't know that much.,14,23,that much,IDENTITY_MARKER,NEUTRAL
+That's a lot.,0,4,That,IDENTITY_MARKER,POSITIVE
+You haven't been reporting them for the last 10 years.,0,3,You,PRONOUN,NEGATIVE
+You haven't been reporting them for the last 10 years.,27,31,them,PRONOUN,NEUTRAL
+"So, here's our deal.",11,19,our deal,IDENTITY_MARKER,NEUTRAL
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",0,2,We,PRONOUN,NEUTRAL
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",20,34,no tax on tips,IDENTITY_MARKER,POSITIVE
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",52,54,we,PRONOUN,POSITIVE
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",76,79,you,PRONOUN,NEGATIVE
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",94,107,all the money,IDENTITY_MARKER,NEUTRAL
+"We're going to have no tax on tips from now on, but we're going to go after you viciously for all the money you didn't report for the last 10, 15.",108,111,you,PRONOUN,NEGATIVE
+We're going to go after you for all the money you didn't report for.,0,2,We,PRONOUN,POSITIVE
+We're going to go after you for all the money you didn't report for.,24,27,you,PRONOUN,NEGATIVE
+We're going to go after you for all the money you didn't report for.,32,45,all the money,IDENTITY_MARKER,NEUTRAL
+We're going to go after you for all the money you didn't report for.,46,49,you,PRONOUN,NEGATIVE
+"I have to say to the fake news because they're going to say, ""Trump is after all -- Trump is after all restaurant workers.""",17,30,the fake news,IDENTITY_MARKER,NEGATIVE
+"I have to say to the fake news because they're going to say, ""Trump is after all -- Trump is after all restaurant workers.""",39,43,they,PRONOUN,NEGATIVE
+"I have to say to the fake news because they're going to say, ""Trump is after all -- Trump is after all restaurant workers.""",62,67,Trump,IDENTITY_MARKER,NEGATIVE
+"I have to say to the fake news because they're going to say, ""Trump is after all -- Trump is after all restaurant workers.""",84,89,Trump,IDENTITY_MARKER,NEGATIVE
+"I have to say to the fake news because they're going to say, ""Trump is after all -- Trump is after all restaurant workers.""",99,121,all restaurant workers,IDENTITY_MARKER,POSITIVE
+"Many of these workers are some of the very citizens who were hit hard and very hard by the ravages of the Biden economy, which was inflation.",0,21,Many of these workers,IDENTITY_MARKER,POSITIVE
+"Many of these workers are some of the very citizens who were hit hard and very hard by the ravages of the Biden economy, which was inflation.",26,51,some of the very citizens,IDENTITY_MARKER,POSITIVE
+"Many of these workers are some of the very citizens who were hit hard and very hard by the ravages of the Biden economy, which was inflation.",87,119,the ravages of the Biden economy,IDENTITY_MARKER,NEGATIVE
+"Many of these workers are some of the very citizens who were hit hard and very hard by the ravages of the Biden economy, which was inflation.",131,140,inflation,IDENTITY_MARKER,NEGATIVE
+"When I think of Biden, I think of incompetence and inflation.",16,21,Biden,IDENTITY_MARKER,NEGATIVE
+"When I think of Biden, I think of incompetence and inflation.",34,46,incompetence,IDENTITY_MARKER,NEGATIVE
+"When I think of Biden, I think of incompetence and inflation.",51,60,inflation,IDENTITY_MARKER,NEGATIVE
+And I'm being nice by saying -- I'm being nice when I say that.,58,62,that,IDENTITY_MARKER,NEUTRAL
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",9,38,in the midst of the suffering,IDENTITY_MARKER,NEGATIVE
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",39,41,he,PRONOUN,NEGATIVE
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",51,60,Joe Biden,IDENTITY_MARKER,NEGATIVE
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",70,86,a cruel campaign,IDENTITY_MARKER,NEGATIVE
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",98,108,more money,IDENTITY_MARKER,NEUTRAL
+"Yet even in the midst of the suffering he created, Joe Biden launched a cruel campaign to extract more money from tip workers.",114,125,tip workers,IDENTITY_MARKER,POSITIVE
+And that's what happened.,4,8,that,IDENTITY_MARKER,NEUTRAL
+"I'm telling you, a young waitress -- I won't say beautiful because you're not allowed to say that as a politician.",12,15,you,PRONOUN,NEUTRAL
+"I'm telling you, a young waitress -- I won't say beautiful because you're not allowed to say that as a politician.",17,33,a young waitress,IDENTITY_MARKER,NEUTRAL
+"I'm telling you, a young waitress -- I won't say beautiful because you're not allowed to say that as a politician.",67,70,you,PRONOUN,POSITIVE
+"I'm telling you, a young waitress -- I won't say beautiful because you're not allowed to say that as a politician.",101,113,a politician,IDENTITY_MARKER,POSITIVE
+"It used to be you could say a young, beautiful waitress.",14,17,you,PRONOUN,POSITIVE
+"It used to be you could say a young, beautiful waitress.",28,55,"a young, beautiful waitress",IDENTITY_MARKER,POSITIVE
+"This was a young, beautiful waitress, but I won't say that because I feel like I want to continue my political career.",0,4,This,IDENTITY_MARKER,POSITIVE
+"This was a young, beautiful waitress, but I won't say that because I feel like I want to continue my political career.",9,36,"a young, beautiful waitress",IDENTITY_MARKER,POSITIVE
+"This was a young, beautiful waitress, but I won't say that because I feel like I want to continue my political career.",54,58,that,IDENTITY_MARKER,NEUTRAL
+"This was a young, beautiful waitress, but I won't say that because I feel like I want to continue my political career.",98,117,my political career,IDENTITY_MARKER,POSITIVE
+If you call some -- the governor won't say it.,3,6,you,PRONOUN,NEUTRAL
+If you call some -- the governor won't say it.,12,16,some,IDENTITY_MARKER,NEUTRAL
+If you call some -- the governor won't say it.,20,32,the governor,IDENTITY_MARKER,NEUTRAL
+"If you call a woman beautiful today, it's the end of your political career, so I won't do it.",3,6,you,PRONOUN,POSITIVE
+"If you call a woman beautiful today, it's the end of your political career, so I won't do it.",12,19,a woman,IDENTITY_MARKER,NEUTRAL
+"If you call a woman beautiful today, it's the end of your political career, so I won't do it.",42,74,the end of your political career,IDENTITY_MARKER,POSITIVE
+"If you call a woman beautiful today, it's the end of your political career, so I won't do it.",90,92,it,IDENTITY_MARKER,NEUTRAL
+But a young waitress -- I think you could her call young.,4,20,a young waitress,IDENTITY_MARKER,NEUTRAL
+But a young waitress -- I think you could her call young.,32,35,you,PRONOUN,NEUTRAL
+But a young waitress -- I think you could her call young.,42,45,her,PRONOUN,NEUTRAL
+You're probably not even supposed to say young.,0,3,You,PRONOUN,NEUTRAL
+You're probably supposed to say a waitress.,0,3,You,PRONOUN,NEUTRAL
+You're probably supposed to say a waitress.,32,42,a waitress,IDENTITY_MARKER,NEUTRAL
+"But a young waitress came up, and I said, ""How are you doing?""",4,20,a young waitress,IDENTITY_MARKER,NEUTRAL
+"But a young waitress came up, and I said, ""How are you doing?""",51,54,you,PRONOUN,NEUTRAL
+"And in my restaurant, in the hotel, Trump, I said, ""How are you doing?""",7,20,my restaurant,IDENTITY_MARKER,NEUTRAL
+"And in my restaurant, in the hotel, Trump, I said, ""How are you doing?""",25,34,the hotel,IDENTITY_MARKER,NEUTRAL
+"And in my restaurant, in the hotel, Trump, I said, ""How are you doing?""",36,41,Trump,IDENTITY_MARKER,NEUTRAL
+"And in my restaurant, in the hotel, Trump, I said, ""How are you doing?""",60,63,you,PRONOUN,NEUTRAL
+"And she said, ""Not great because they're after me so viciously for tips.",4,7,she,PRONOUN,POSITIVE
+"And she said, ""Not great because they're after me so viciously for tips.",33,37,they,PRONOUN,NEGATIVE
+"And she said, ""Not great because they're after me so viciously for tips.",67,71,tips,IDENTITY_MARKER,NEUTRAL
+"They just want my tip income, and they don't believe me and all of this.""",0,4,They,PRONOUN,NEGATIVE
+"They just want my tip income, and they don't believe me and all of this.""",15,28,my tip income,IDENTITY_MARKER,NEUTRAL
+"They just want my tip income, and they don't believe me and all of this.""",34,38,they,PRONOUN,NEGATIVE
+"They just want my tip income, and they don't believe me and all of this.""",67,71,this,IDENTITY_MARKER,NEGATIVE
+"And she said, ""It's terrible.",4,7,she,PRONOUN,NEUTRAL
+"And she said, ""It's terrible.",15,17,It,PRONOUN,NEGATIVE
+"You know, sir, you should have no tax on tips.""",0,3,You,PRONOUN,POSITIVE
+"You know, sir, you should have no tax on tips.""",10,13,sir,IDENTITY_MARKER,POSITIVE
+"You know, sir, you should have no tax on tips.""",15,18,you,PRONOUN,NEUTRAL
+"You know, sir, you should have no tax on tips.""",31,45,no tax on tips,IDENTITY_MARKER,POSITIVE
+"I said, ""What did you just say?""",18,21,you,PRONOUN,NEUTRAL
+"""No tax on tips.""",0,7,tax,IDENTITY_MARKER,POSITIVE
+"""No tax on tips.""",11,15,tips,IDENTITY_MARKER,NEUTRAL
+That was about the amount of my consultation.,0,4,That,IDENTITY_MARKER,NEUTRAL
+That was about the amount of my consultation.,15,44,the amount of my consultation,IDENTITY_MARKER,NEUTRAL
+It's true.,0,2,It,PRONOUN,POSITIVE
+"I said, ""What did you just say?",18,21,you,PRONOUN,NEUTRAL
+"Say those words again.""",4,15,those words,IDENTITY_MARKER,NEUTRAL
+"""Sir, no tax on tips.""",1,4,Sir,IDENTITY_MARKER,NEUTRAL
+"""Sir, no tax on tips.""",6,12,no tax,IDENTITY_MARKER,POSITIVE
+"""Sir, no tax on tips.""",16,20,tips,IDENTITY_MARKER,NEUTRAL
+"I said, ""Thank you very much.",15,18,you,PRONOUN,POSITIVE
+"You just won the election.""",0,3,You,PRONOUN,POSITIVE
+"You just won the election.""",13,25,the election,IDENTITY_MARKER,POSITIVE
+"No, but no, we did research into it.",12,14,we,PRONOUN,POSITIVE
+"No, but no, we did research into it.",19,27,research,IDENTITY_MARKER,POSITIVE
+"No, but no, we did research into it.",33,35,it,PRONOUN,NEUTRAL
+I think it's going to be great.,8,10,it,PRONOUN,POSITIVE
+"But under the Trump administration, the forgotten men and women of our country are going to be forgotten no longer.",10,34,the Trump administration,IDENTITY_MARKER,POSITIVE
+"But under the Trump administration, the forgotten men and women of our country are going to be forgotten no longer.",36,78,the forgotten men and women of our country,IDENTITY_MARKER,POSITIVE
+"But under the Trump administration, the forgotten men and women of our country are going to be forgotten no longer.",96,115,forgotten no longer,IDENTITY_MARKER,POSITIVE
+You know that.,0,3,You,PRONOUN,POSITIVE
+You know that.,9,13,that,IDENTITY_MARKER,NEUTRAL
+They weren't forgotten four years ago.,0,4,They,PRONOUN,POSITIVE
+"On Day 1, I immediately halted the hiring of any new IRS agents.",31,63,the hiring of any new IRS agents,IDENTITY_MARKER,NEGATIVE
+"You know, they hired -- they hired -- or tried to hire 88,000 new workers to go after you.",0,3,You,PRONOUN,POSITIVE
+"You know, they hired -- they hired -- or tried to hire 88,000 new workers to go after you.",10,14,they,PRONOUN,NEGATIVE
+"You know, they hired -- they hired -- or tried to hire 88,000 new workers to go after you.",24,28,they,PRONOUN,NEGATIVE
+"You know, they hired -- they hired -- or tried to hire 88,000 new workers to go after you.",55,73,"88,000 new workers",IDENTITY_MARKER,NEGATIVE
+"You know, they hired -- they hired -- or tried to hire 88,000 new workers to go after you.",86,89,you,PRONOUN,POSITIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",4,6,we,PRONOUN,POSITIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",39,45,a plan,IDENTITY_MARKER,POSITIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",66,77,all of them,IDENTITY_MARKER,NEGATIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",88,90,we,PRONOUN,POSITIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",99,103,them,PRONOUN,NEGATIVE
+"And we're in the process of developing a plan to either terminate all of them, or maybe we'll move them to the border.",107,117,the border,IDENTITY_MARKER,NEUTRAL
+I think we're going to move them to the border.,8,10,we,PRONOUN,NEUTRAL
+I think we're going to move them to the border.,28,32,them,PRONOUN,NEGATIVE
+I think we're going to move them to the border.,36,46,the border,IDENTITY_MARKER,NEUTRAL
+"Well, they're allowed to carry guns.",6,10,they,PRONOUN,POSITIVE
+"Well, they're allowed to carry guns.",31,35,guns,IDENTITY_MARKER,NEUTRAL
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",0,3,You,PRONOUN,POSITIVE
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",10,14,they,PRONOUN,POSITIVE
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",31,35,guns,IDENTITY_MARKER,NEUTRAL
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",41,53,these people,IDENTITY_MARKER,NEGATIVE
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",75,79,guns,IDENTITY_MARKER,NEUTRAL
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",84,86,we,PRONOUN,POSITIVE
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",104,108,them,PRONOUN,NEGATIVE
+"You know, they're so strong on guns, but these people are allowed to carry guns, so we'll probably move them to the border.",112,122,the border,IDENTITY_MARKER,NEUTRAL
+"She said, ""No tax on them.""",0,3,She,PRONOUN,NEUTRAL
+"She said, ""No tax on them.""",12,17,No tax,IDENTITY_MARKER,POSITIVE
+"She said, ""No tax on them.""",21,25,them,PRONOUN,POSITIVE
+How about just no tax?,16,21,tax,IDENTITY_MARKER,
+You can do that.,0,3,You,PRONOUN,POSITIVE
+You can do that.,11,15,that,IDENTITY_MARKER,POSITIVE
+"You know, if the tariffs worked out like I think, a thing like that could happen, if you want to know the truth.",0,3,You,PRONOUN,POSITIVE
+"You know, if the tariffs worked out like I think, a thing like that could happen, if you want to know the truth.",13,24,the tariffs,IDENTITY_MARKER,POSITIVE
+"You know, if the tariffs worked out like I think, a thing like that could happen, if you want to know the truth.",63,67,that,IDENTITY_MARKER,NEUTRAL
+"You know, if the tariffs worked out like I think, a thing like that could happen, if you want to know the truth.",85,88,you,PRONOUN,NEUTRAL
+"You know, if the tariffs worked out like I think, a thing like that could happen, if you want to know the truth.",102,111,the truth,IDENTITY_MARKER,POSITIVE
+"You know, years ago, 1870 to 1913, we didn't have an income tax.",0,3,You,PRONOUN,POSITIVE
+"You know, years ago, 1870 to 1913, we didn't have an income tax.",35,37,we,PRONOUN,NEUTRAL
+"You know, years ago, 1870 to 1913, we didn't have an income tax.",50,63,an income tax,IDENTITY_MARKER,NEUTRAL
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",0,2,We,PRONOUN,NEUTRAL
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",15,17,we,PRONOUN,NEUTRAL
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",25,32,tariffs,IDENTITY_MARKER,NEUTRAL
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",40,57,foreign countries,IDENTITY_MARKER,NEGATIVE
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",71,75,they,PRONOUN,NEGATIVE
+"We had -- what we had is tariffs, where foreign countries came in, and they stole our jobs.",82,90,our jobs,IDENTITY_MARKER,POSITIVE
+They stole our companies.,0,4,They,PRONOUN,NEGATIVE
+They stole our companies.,11,24,our companies,IDENTITY_MARKER,POSITIVE
+They stole our product.,0,4,They,PRONOUN,NEGATIVE
+They stole our product.,11,22,our product,IDENTITY_MARKER,POSITIVE
+They ripped us off.,0,4,They,PRONOUN,NEGATIVE
+They ripped us off.,12,14,us,PRONOUN,POSITIVE
+"And, you know, they used to do numbers.",5,8,you,PRONOUN,POSITIVE
+"And, you know, they used to do numbers.",15,19,they,PRONOUN,NEUTRAL
+"And, you know, they used to do numbers.",31,38,numbers,IDENTITY_MARKER,NEUTRAL
+"And then we went to tariff, a tariff system.",9,11,we,PRONOUN,NEUTRAL
+"And then we went to tariff, a tariff system.",28,43,a tariff system,IDENTITY_MARKER,NEUTRAL
+And the tariff system made so much money.,4,21,the tariff system,IDENTITY_MARKER,NEUTRAL
+And the tariff system made so much money.,27,40,so much money,IDENTITY_MARKER,POSITIVE
+"It was when we were the richest, from 1870 to 1913.",0,2,It,PRONOUN,NEUTRAL
+"It was when we were the richest, from 1870 to 1913.",12,14,we,PRONOUN,NEUTRAL
+"It was when we were the richest, from 1870 to 1913.",20,31,the richest,IDENTITY_MARKER,POSITIVE
+And then we came in with the -- brilliantly came in with an income tax.,9,11,we,PRONOUN,POSITIVE
+And then we came in with the -- brilliantly came in with an income tax.,57,70,an income tax,IDENTITY_MARKER,POSITIVE
+"No, we don't want others to pay.",4,6,we,PRONOUN,NEUTRAL
+"No, we don't want others to pay.",18,24,others,IDENTITY_MARKER,NEUTRAL
+"No, we don't want others to pay.",28,31,pay,IDENTITY_MARKER,NEUTRAL
+Let's have our people pay.,11,21,our people,IDENTITY_MARKER,NEUTRAL
+Let's have our people pay.,22,25,pay,IDENTITY_MARKER,NEUTRAL
+"And then you had the Depression in 1928, 1929.",9,12,you,PRONOUN,NEUTRAL
+"And then you had the Depression in 1928, 1929.",17,31,the Depression,IDENTITY_MARKER,NEUTRAL
+I call it 1929.,7,9,it,PRONOUN,NEUTRAL
+That was a bad time.,0,4,That,IDENTITY_MARKER,NEGATIVE
+That was a bad time.,9,19,a bad time,IDENTITY_MARKER,NEGATIVE
+"But, you know, you didn't have tariffs.",5,8,you,PRONOUN,POSITIVE
+"But, you know, you didn't have tariffs.",15,18,you,PRONOUN,NEUTRAL
+"But, you know, you didn't have tariffs.",31,38,tariffs,IDENTITY_MARKER,NEUTRAL
+And you had tariffs that ended in 1913.,4,7,you,PRONOUN,NEUTRAL
+And you had tariffs that ended in 1913.,12,19,tariffs,IDENTITY_MARKER,NEUTRAL
+But it's -- it was the richest our country ever was.,4,6,it,PRONOUN,NEUTRAL
+But it's -- it was the richest our country ever was.,12,14,it,PRONOUN,NEUTRAL
+But it's -- it was the richest our country ever was.,19,30,the richest,IDENTITY_MARKER,POSITIVE
+But it's -- it was the richest our country ever was.,31,42,our country,IDENTITY_MARKER,POSITIVE
+That was President McKinley.,0,4,That,IDENTITY_MARKER,NEUTRAL
+That was President McKinley.,9,27,President McKinley,IDENTITY_MARKER,NEUTRAL
+"In fact, we're renaming the mountain Mount McKinley in Alaska.",9,11,we,PRONOUN,POSITIVE
+"In fact, we're renaming the mountain Mount McKinley in Alaska.",24,51,the mountain Mount McKinley,IDENTITY_MARKER,NEUTRAL
+"In fact, we're renaming the mountain Mount McKinley in Alaska.",55,61,Alaska,IDENTITY_MARKER,NEUTRAL
+You know what else we're renaming?,0,3,You,PRONOUN,NEUTRAL
+You know what else we're renaming?,19,21,we,PRONOUN,POSITIVE
+"We're renaming the Gulf of Mexico into the Gulf of America, right?",0,2,We,PRONOUN,POSITIVE
+"We're renaming the Gulf of Mexico into the Gulf of America, right?",15,33,the Gulf of Mexico,IDENTITY_MARKER,NEUTRAL
+"We're renaming the Gulf of Mexico into the Gulf of America, right?",39,58,the Gulf of America,IDENTITY_MARKER,POSITIVE
+"And Mexico, actually, they were thrilled when they heard.",4,10,Mexico,IDENTITY_MARKER,POSITIVE
+"And Mexico, actually, they were thrilled when they heard.",22,26,they,PRONOUN,POSITIVE
+"And Mexico, actually, they were thrilled when they heard.",46,50,they,PRONOUN,POSITIVE
+"They said, ""That's nice.""",0,4,They,PRONOUN,POSITIVE
+"A few months from now, when I sign our tax cut into law, we're going to deliver for the tip-earning men and women who make it all work.",35,46,our tax cut,IDENTITY_MARKER,POSITIVE
+"A few months from now, when I sign our tax cut into law, we're going to deliver for the tip-earning men and women who make it all work.",57,59,we,PRONOUN,POSITIVE
+"A few months from now, when I sign our tax cut into law, we're going to deliver for the tip-earning men and women who make it all work.",84,113,the tip-earning men and women,IDENTITY_MARKER,POSITIVE
+"A few months from now, when I sign our tax cut into law, we're going to deliver for the tip-earning men and women who make it all work.",123,125,it,PRONOUN,POSITIVE
+"I mean, it's going to be something very special, I think, for you.",8,10,it,PRONOUN,POSITIVE
+"I mean, it's going to be something very special, I think, for you.",25,34,something,IDENTITY_MARKER,POSITIVE
+"I mean, it's going to be something very special, I think, for you.",62,65,you,PRONOUN,POSITIVE
+It's going to be a big difference.,0,2,It,PRONOUN,POSITIVE
+It's going to be a big difference.,17,33,a big difference,IDENTITY_MARKER,POSITIVE
+"And with us today is Jessica Anguiano, an employee here at Circa.",9,11,us,PRONOUN,NEUTRAL
+"And with us today is Jessica Anguiano, an employee here at Circa.",21,37,Jessica Anguiano,IDENTITY_MARKER,NEUTRAL
+"And with us today is Jessica Anguiano, an employee here at Circa.",39,50,an employee,IDENTITY_MARKER,NEUTRAL
+"And with us today is Jessica Anguiano, an employee here at Circa.",59,64,Circa,IDENTITY_MARKER,NEUTRAL
+"This is a nice place, by the way.",0,4,This,IDENTITY_MARKER,
+"This is a nice place, by the way.",8,20,a nice place,IDENTITY_MARKER,
+And I just met your owner.,15,25,your owner,IDENTITY_MARKER,
+He's a nice man.,0,2,He,PRONOUN,POSITIVE
+He's a nice man.,5,15,a nice man,IDENTITY_MARKER,POSITIVE
+"He's rich, too, very rich.",0,2,He,PRONOUN,NEUTRAL
+But Circa's very nice.,4,9,Circa,IDENTITY_MARKER,POSITIVE
+"And a hardworking single mother of two with incredible children, Jessica's struggling to pay for medical bills to remove a tumor behind her right eye.",4,38,a hardworking single mother of two,IDENTITY_MARKER,POSITIVE
+"And a hardworking single mother of two with incredible children, Jessica's struggling to pay for medical bills to remove a tumor behind her right eye.",44,63,incredible children,IDENTITY_MARKER,POSITIVE
+"And a hardworking single mother of two with incredible children, Jessica's struggling to pay for medical bills to remove a tumor behind her right eye.",65,72,Jessica,IDENTITY_MARKER,POSITIVE
+"And a hardworking single mother of two with incredible children, Jessica's struggling to pay for medical bills to remove a tumor behind her right eye.",97,110,medical bills,IDENTITY_MARKER,NEGATIVE
+"And a hardworking single mother of two with incredible children, Jessica's struggling to pay for medical bills to remove a tumor behind her right eye.",114,149,remove a tumor behind her right eye,IDENTITY_MARKER,NEGATIVE
+She had some real difficulty.,0,3,She,PRONOUN,POSITIVE
+She had some real difficulty.,8,28,some real difficulty,IDENTITY_MARKER,NEGATIVE
+"And she's currently saving up for a second surgery, which will hopefully be very successful, while also paying for her children's daycare.",4,7,she,PRONOUN,POSITIVE
+"And she's currently saving up for a second surgery, which will hopefully be very successful, while also paying for her children's daycare.",34,50,a second surgery,IDENTITY_MARKER,NEUTRAL
+"And she's currently saving up for a second surgery, which will hopefully be very successful, while also paying for her children's daycare.",115,137,her children's daycare,IDENTITY_MARKER,NEUTRAL
+Jessica says that no tax on tips would transform her life.,0,7,Jessica,IDENTITY_MARKER,NEUTRAL
+Jessica says that no tax on tips would transform her life.,18,32,no tax on tips,IDENTITY_MARKER,POSITIVE
+Jessica says that no tax on tips would transform her life.,49,57,her life,IDENTITY_MARKER,POSITIVE
+It would make such a big difference.,0,2,It,PRONOUN,POSITIVE
+"So, Jessica, we're going to get that for you.",4,11,Jessica,IDENTITY_MARKER,POSITIVE
+"So, Jessica, we're going to get that for you.",13,15,we,PRONOUN,POSITIVE
+"So, Jessica, we're going to get that for you.",32,36,that,IDENTITY_MARKER,POSITIVE
+"So, Jessica, we're going to get that for you.",41,44,you,PRONOUN,POSITIVE
+"Where are you, Jessica?",10,13,you,PRONOUN,NEUTRAL
+"Where are you, Jessica?",15,22,Jessica,IDENTITY_MARKER,NEUTRAL
+"Are you around here someplace, huh?",4,7,you,PRONOUN,NEUTRAL
+"Are you around here someplace, huh?",15,19,here,IDENTITY_MARKER,NEUTRAL
+"Hi, Jessica.",4,11,Jessica,IDENTITY_MARKER,NEUTRAL
+Is it working out medically good?,3,5,it,PRONOUN,NEUTRAL
+Everything good?,0,10,Everything,IDENTITY_MARKER,NEUTRAL
+It's going to be good.,0,2,It,PRONOUN,POSITIVE
+And it's going to -- you look fantastic.,4,6,it,PRONOUN,NEUTRAL
+And it's going to -- you look fantastic.,21,24,you,PRONOUN,POSITIVE
+It's good.,0,2,It,PRONOUN,POSITIVE
+You look great.,0,3,You,PRONOUN,POSITIVE
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",10,12,us,PRONOUN,NEUTRAL
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",16,25,Lexi York,IDENTITY_MARKER,NEUTRAL
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",27,56,a 28-year-old cocktail server,IDENTITY_MARKER,NEUTRAL
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",65,70,Circa,IDENTITY_MARKER,NEUTRAL
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",83,93,big dreams,IDENTITY_MARKER,POSITIVE
+"Also with us is Lexi York, a 28-year-old cocktail server here at Circa, who's got big dreams of being an entrepreneur.",106,118,an entrepreneur,IDENTITY_MARKER,POSITIVE
+Lexi says that no tax on tips will help bring those dreams much closer to reach.,0,4,Lexi,IDENTITY_MARKER,NEUTRAL
+Lexi says that no tax on tips will help bring those dreams much closer to reach.,15,29,no tax on tips,IDENTITY_MARKER,POSITIVE
+Lexi says that no tax on tips will help bring those dreams much closer to reach.,46,58,those dreams,IDENTITY_MARKER,POSITIVE
+And she's going to be one of the biggest proponents for it.,4,7,she,PRONOUN,NEUTRAL
+And she's going to be one of the biggest proponents for it.,22,51,one of the biggest proponents,IDENTITY_MARKER,NEUTRAL
+And she's going to be one of the biggest proponents for it.,56,58,it,PRONOUN,NEUTRAL
+We're going to have a lot of support when we go before Congress very soon to get that passed.,0,2,We,PRONOUN,POSITIVE
+We're going to have a lot of support when we go before Congress very soon to get that passed.,20,36,a lot of support,IDENTITY_MARKER,POSITIVE
+We're going to have a lot of support when we go before Congress very soon to get that passed.,42,44,we,PRONOUN,POSITIVE
+We're going to have a lot of support when we go before Congress very soon to get that passed.,55,63,Congress,IDENTITY_MARKER,NEUTRAL
+We're going to have a lot of support when we go before Congress very soon to get that passed.,81,85,that,IDENTITY_MARKER,POSITIVE
+"Lexi, where are you?",0,4,Lexi,IDENTITY_MARKER,NEUTRAL
+"Lexi, where are you?",16,19,you,PRONOUN,NEUTRAL
+"Hi, Lexi.",4,8,Lexi,IDENTITY_MARKER,NEUTRAL
+We'll get it done.,0,2,We,PRONOUN,POSITIVE
+We'll get it done.,10,12,it,PRONOUN,NEUTRAL
+"And we're also pleased to be joined by Rosanna Maietta, president and CEO of the American Hotel and Lodging Association, which strongly supports this pro-worker reform.",4,6,we,PRONOUN,POSITIVE
+"And we're also pleased to be joined by Rosanna Maietta, president and CEO of the American Hotel and Lodging Association, which strongly supports this pro-worker reform.",39,54,Rosanna Maietta,IDENTITY_MARKER,POSITIVE
+"And we're also pleased to be joined by Rosanna Maietta, president and CEO of the American Hotel and Lodging Association, which strongly supports this pro-worker reform.",56,119,president and CEO of the American Hotel and Lodging Association,IDENTITY_MARKER,POSITIVE
+"And we're also pleased to be joined by Rosanna Maietta, president and CEO of the American Hotel and Lodging Association, which strongly supports this pro-worker reform.",145,167,this pro-worker reform,IDENTITY_MARKER,POSITIVE
+"And Rosanna, would you like to come up and say a few words on behalf of so many people?",4,11,Rosanna,IDENTITY_MARKER,NEUTRAL
+"And Rosanna, would you like to come up and say a few words on behalf of so many people?",19,22,you,PRONOUN,NEUTRAL
+"And Rosanna, would you like to come up and say a few words on behalf of so many people?",72,86,so many people,IDENTITY_MARKER,NEUTRAL
+Nice to see you.,12,15,you,PRONOUN,POSITIVE
+"Thank you very much, Jessica.",6,9,you,PRONOUN,POSITIVE
+"Thank you very much, Jessica.",21,28,Jessica,IDENTITY_MARKER,POSITIVE
+After four long years -- and these were long years of a government that always put you last.,29,34,these,IDENTITY_MARKER,NEGATIVE
+After four long years -- and these were long years of a government that always put you last.,54,66,a government,IDENTITY_MARKER,NEGATIVE
+After four long years -- and these were long years of a government that always put you last.,83,86,you,PRONOUN,POSITIVE
+They put America last.,0,4,They,PRONOUN,NEGATIVE
+They put America last.,9,16,America,IDENTITY_MARKER,POSITIVE
+They put you last.,0,4,They,PRONOUN,NEGATIVE
+They put you last.,9,12,you,PRONOUN,POSITIVE
+They put everybody last that was associated with us.,0,4,They,PRONOUN,NEGATIVE
+They put everybody last that was associated with us.,9,18,everybody,IDENTITY_MARKER,POSITIVE
+They put everybody last that was associated with us.,49,51,us,PRONOUN,POSITIVE
+"You once again have a president who's putting our workers first, putting our families first, and above all, putting America first.",0,3,You,PRONOUN,POSITIVE
+"You once again have a president who's putting our workers first, putting our families first, and above all, putting America first.",20,31,a president,IDENTITY_MARKER,POSITIVE
+"You once again have a president who's putting our workers first, putting our families first, and above all, putting America first.",46,57,our workers,IDENTITY_MARKER,POSITIVE
+"You once again have a president who's putting our workers first, putting our families first, and above all, putting America first.",73,85,our families,IDENTITY_MARKER,POSITIVE
+"You once again have a president who's putting our workers first, putting our families first, and above all, putting America first.",116,123,America,IDENTITY_MARKER,POSITIVE
+And we're going to keep America first.,4,6,we,PRONOUN,POSITIVE
+And we're going to keep America first.,24,31,America,IDENTITY_MARKER,POSITIVE
+Can you see it?,4,7,you,PRONOUN,NEUTRAL
+Can you see it?,12,14,it,PRONOUN,NEUTRAL
+We're restoring our prosperity.,0,2,We,PRONOUN,POSITIVE
+We're restoring our prosperity.,16,30,our prosperity,IDENTITY_MARKER,POSITIVE
+We're restoring our borders.,0,2,We,PRONOUN,POSITIVE
+We're restoring our borders.,16,27,our borders,IDENTITY_MARKER,POSITIVE
+"We're restoring our strength, our dignity, and our pride.",0,2,We,PRONOUN,POSITIVE
+"We're restoring our strength, our dignity, and our pride.",16,28,our strength,IDENTITY_MARKER,POSITIVE
+"We're restoring our strength, our dignity, and our pride.",30,41,our dignity,IDENTITY_MARKER,POSITIVE
+"We're restoring our strength, our dignity, and our pride.",47,56,our pride,IDENTITY_MARKER,POSITIVE
+We've been hurt badly by this group of people.,0,2,We,PRONOUN,POSITIVE
+We've been hurt badly by this group of people.,25,45,this group of people,IDENTITY_MARKER,NEGATIVE
+"This group of people, they didn't have a clue what the hell was happening.",0,20,This group of people,IDENTITY_MARKER,NEGATIVE
+"This group of people, they didn't have a clue what the hell was happening.",22,26,they,PRONOUN,NEGATIVE
+It's so disgraceful that they were allowed to do it.,0,2,It,PRONOUN,NEGATIVE
+It's so disgraceful that they were allowed to do it.,25,29,they,PRONOUN,NEGATIVE
+It's so disgraceful that they were allowed to do it.,49,51,it,PRONOUN,NEGATIVE
+"But quite honestly, we're restoring our country.",20,22,we,PRONOUN,POSITIVE
+"But quite honestly, we're restoring our country.",36,47,our country,IDENTITY_MARKER,POSITIVE
+"Within hours of taking the Oath of Office, I declared a national emergency at our southern border.",23,41,the Oath of Office,IDENTITY_MARKER,NEUTRAL
+"Within hours of taking the Oath of Office, I declared a national emergency at our southern border.",54,74,a national emergency,IDENTITY_MARKER,POSITIVE
+"Within hours of taking the Oath of Office, I declared a national emergency at our southern border.",78,97,our southern border,IDENTITY_MARKER,NEUTRAL
+I sent active-duty troops to the border to help repel the invasion.,7,25,active-duty troops,IDENTITY_MARKER,NEUTRAL
+I sent active-duty troops to the border to help repel the invasion.,29,39,the border,IDENTITY_MARKER,NEUTRAL
+I sent active-duty troops to the border to help repel the invasion.,54,66,the invasion,IDENTITY_MARKER,NEGATIVE
+Tom Homan is leading the charge.,0,9,Tom Homan,IDENTITY_MARKER,POSITIVE
+Tom Homan is leading the charge.,21,31,the charge,IDENTITY_MARKER,POSITIVE
+"We like Tom Homan, right?",0,2,We,PRONOUN,NEUTRAL
+"We like Tom Homan, right?",8,17,Tom Homan,IDENTITY_MARKER,POSITIVE
+Doing a great job.,6,17,a great job,IDENTITY_MARKER,POSITIVE
+We immediately halted all illegal entry and began sending every border trespasser and violator back to the places from which they came.,0,2,We,PRONOUN,POSITIVE
+We immediately halted all illegal entry and began sending every border trespasser and violator back to the places from which they came.,22,39,all illegal entry,IDENTITY_MARKER,NEGATIVE
+We immediately halted all illegal entry and began sending every border trespasser and violator back to the places from which they came.,58,81,every border trespasser,IDENTITY_MARKER,NEGATIVE
+We immediately halted all illegal entry and began sending every border trespasser and violator back to the places from which they came.,86,94,violator,IDENTITY_MARKER,NEGATIVE
+We immediately halted all illegal entry and began sending every border trespasser and violator back to the places from which they came.,103,134,the places from which they came,IDENTITY_MARKER,NEGATIVE
+I signed an order that will designate the cartels as foreign terrorist organizations.,9,17,an order,IDENTITY_MARKER,POSITIVE
+I signed an order that will designate the cartels as foreign terrorist organizations.,38,49,the cartels,IDENTITY_MARKER,NEGATIVE
+I signed an order that will designate the cartels as foreign terrorist organizations.,53,84,foreign terrorist organizations,IDENTITY_MARKER,NEGATIVE
+It's a big deal.,0,2,It,PRONOUN,POSITIVE
+It's a big deal.,5,15,a big deal,IDENTITY_MARKER,POSITIVE
+That's a big deal.,0,4,That,IDENTITY_MARKER,POSITIVE
+That's a big deal.,7,17,a big deal,IDENTITY_MARKER,POSITIVE
+Biden didn't want to do that.,0,5,Biden,IDENTITY_MARKER,NEGATIVE
+Biden didn't want to do that.,24,28,that,IDENTITY_MARKER,POSITIVE
+"""No, I don't want to do that.""",24,28,that,IDENTITY_MARKER,NEUTRAL
+Biden didn't know he was alive.,0,5,Biden,IDENTITY_MARKER,NEGATIVE
+Biden didn't know he was alive.,18,20,he,PRONOUN,NEUTRAL
+He didn't want to do it.,0,2,He,PRONOUN,NEGATIVE
+He didn't want to do it.,21,23,it,PRONOUN,POSITIVE
+He didn't want to do that.,0,2,He,PRONOUN,NEGATIVE
+He didn't want to do that.,21,25,that,IDENTITY_MARKER,POSITIVE
+"I always wanted to do it, you know?",22,24,it,PRONOUN,NEUTRAL
+"I always wanted to do it, you know?",26,29,you,PRONOUN,POSITIVE
+"I mean, think of it.",17,19,it,PRONOUN,NEUTRAL
+Is that a terrorist organization or what?,8,32,a terrorist organization,IDENTITY_MARKER,NEGATIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,4,6,we,PRONOUN,POSITIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,25,73,the full and immense power of federal government,IDENTITY_MARKER,POSITIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,78,94,state government,IDENTITY_MARKER,POSITIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,99,110,enforcement,IDENTITY_MARKER,POSITIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,140,157,all foreign gangs,IDENTITY_MARKER,NEGATIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,162,179,criminal networks,IDENTITY_MARKER,NEGATIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,189,206,devastating crime,IDENTITY_MARKER,NEGATIVE
+And we began to leverage the full and immense power of federal government and state government and enforcement to eliminate the presence of all foreign gangs and criminal networks bringing devastating crime to American soil.,210,223,American soil,IDENTITY_MARKER,POSITIVE
+And we don't allow people to enter our country and to dump their prisons into the United States of America anymore.,4,6,we,PRONOUN,POSITIVE
+And we don't allow people to enter our country and to dump their prisons into the United States of America anymore.,19,25,people,IDENTITY_MARKER,NEGATIVE
+And we don't allow people to enter our country and to dump their prisons into the United States of America anymore.,35,46,our country,IDENTITY_MARKER,POSITIVE
+And we don't allow people to enter our country and to dump their prisons into the United States of America anymore.,59,72,their prisons,IDENTITY_MARKER,NEGATIVE
+And we don't allow people to enter our country and to dump their prisons into the United States of America anymore.,78,106,the United States of America,IDENTITY_MARKER,POSITIVE
+"When we see that, our people are instructed to do whatever they have to do.",5,7,we,PRONOUN,NEUTRAL
+"When we see that, our people are instructed to do whatever they have to do.",12,16,that,IDENTITY_MARKER,NEUTRAL
+"When we see that, our people are instructed to do whatever they have to do.",18,28,our people,IDENTITY_MARKER,POSITIVE
+"When we see that, our people are instructed to do whatever they have to do.",59,63,they,PRONOUN,POSITIVE
+They can do whatever the hell they want to do.,0,4,They,PRONOUN,POSITIVE
+They can do whatever the hell they want to do.,30,34,they,PRONOUN,POSITIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",22,39,the heroes of ICE,IDENTITY_MARKER,POSITIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",77,112,hundreds of illegal alien criminals,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",117,140,its immediate expulsion,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",152,194,those with charges of convictions for rape,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",196,216,child sexual assault,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",218,227,terrorism,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",238,244,murder,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",246,290,members of the savage Venezuelan prison gang,IDENTITY_MARKER,NEGATIVE
+"Throughout this week, the heroes of ICE have been hunting down and arresting hundreds of illegal alien criminals and its immediate expulsion, including those with charges of convictions for rape, child sexual assault, terrorism, and even murder, members of the savage Venezuelan prison gang known as Tren de Aragua.",300,314,Tren de Aragua,IDENTITY_MARKER,NEGATIVE
+You know that gang?,0,3,You,PRONOUN,NEUTRAL
+You know that gang?,9,18,that gang,IDENTITY_MARKER,NEUTRAL
+This is not a nice group of people.,0,4,This,IDENTITY_MARKER,NEGATIVE
+This is not a nice group of people.,12,34,a nice group of people,IDENTITY_MARKER,NEGATIVE
+They formed in prison.,0,4,They,PRONOUN,NEGATIVE
+They formed in prison.,15,21,prison,IDENTITY_MARKER,NEGATIVE
+And then they dumped their prisons into our country.,9,13,they,PRONOUN,NEGATIVE
+And then they dumped their prisons into our country.,21,34,their prisons,IDENTITY_MARKER,NEGATIVE
+And then they dumped their prisons into our country.,40,51,our country,IDENTITY_MARKER,POSITIVE
+"So, we had them, and we had them all over the place.",4,6,we,PRONOUN,NEUTRAL
+"So, we had them, and we had them all over the place.",11,15,them,PRONOUN,NEGATIVE
+"So, we had them, and we had them all over the place.",22,24,we,IDENTITY_MARKER,NEUTRAL
+"So, we had them, and we had them all over the place.",28,32,them,PRONOUN,NEGATIVE
+"So, we had them, and we had them all over the place.",33,51,all over the place,IDENTITY_MARKER,NEGATIVE
+Ask Colorado.,4,12,Colorado,IDENTITY_MARKER,NEUTRAL
+"The governor of Colorado, he doesn't know what to do about it.",0,24,The governor of Colorado,IDENTITY_MARKER,NEUTRAL
+"The governor of Colorado, he doesn't know what to do about it.",26,28,he,PRONOUN,NEUTRAL
+"The governor of Colorado, he doesn't know what to do about it.",59,61,it,PRONOUN,NEGATIVE
+They're all over the place.,0,4,They,PRONOUN,NEGATIVE
+They're all over the place.,8,26,all over the place,IDENTITY_MARKER,NEGATIVE
+We'll get them out.,0,2,We,PRONOUN,POSITIVE
+We'll get them out.,10,14,them,PRONOUN,NEGATIVE
+"In a sense, they're in the real estate business.",12,16,they,PRONOUN,NEUTRAL
+"In a sense, they're in the real estate business.",23,47,the real estate business,IDENTITY_MARKER,NEUTRAL
+"They go into a building, and they take it, you know?",0,4,They,PRONOUN,NEGATIVE
+"They go into a building, and they take it, you know?",13,23,a building,IDENTITY_MARKER,NEUTRAL
+"They go into a building, and they take it, you know?",29,33,they,PRONOUN,NEGATIVE
+"They go into a building, and they take it, you know?",39,41,it,PRONOUN,POSITIVE
+"They go into a building, and they take it, you know?",43,46,you,PRONOUN,POSITIVE
+"See, when you buy a building, you have to go out and get a mortgage or use your own cash.",10,13,you,PRONOUN,NEUTRAL
+"See, when you buy a building, you have to go out and get a mortgage or use your own cash.",18,28,a building,IDENTITY_MARKER,NEUTRAL
+"See, when you buy a building, you have to go out and get a mortgage or use your own cash.",30,33,you,PRONOUN,NEUTRAL
+"See, when you buy a building, you have to go out and get a mortgage or use your own cash.",57,67,a mortgage,IDENTITY_MARKER,NEUTRAL
+"See, when you buy a building, you have to go out and get a mortgage or use your own cash.",75,88,your own cash,IDENTITY_MARKER,NEUTRAL
+"They just go into a building and take it, and they actually said, ""Well, it's not that bad.",0,4,They,PRONOUN,NEGATIVE
+"They just go into a building and take it, and they actually said, ""Well, it's not that bad.",18,28,a building,IDENTITY_MARKER,NEUTRAL
+"They just go into a building and take it, and they actually said, ""Well, it's not that bad.",38,40,it,PRONOUN,NEUTRAL
+"They just go into a building and take it, and they actually said, ""Well, it's not that bad.",46,50,they,PRONOUN,NEUTRAL
+"They just go into a building and take it, and they actually said, ""Well, it's not that bad.",73,75,it,PRONOUN,NEUTRAL
+"They haven't taken that many buildings.""",0,4,They,PRONOUN,NEUTRAL
+"They haven't taken that many buildings.""",19,38,that many buildings,IDENTITY_MARKER,NEUTRAL
+Can you imagine that?,4,7,you,PRONOUN,NEUTRAL
+Can you imagine that?,16,20,that,IDENTITY_MARKER,NEUTRAL
+"""They haven't taken that many buildings.",1,5,They,PRONOUN,NEUTRAL
+"""They haven't taken that many buildings.",20,39,that many buildings,IDENTITY_MARKER,NEUTRAL
+"Oh, they're not that bad.""",4,8,they,PRONOUN,NEUTRAL
+But they're as bad as the bloodthirsty MS-13 gangs that we have gotten thousands and thousands of them out.,4,8,they,PRONOUN,NEGATIVE
+But they're as bad as the bloodthirsty MS-13 gangs that we have gotten thousands and thousands of them out.,22,50,the bloodthirsty MS-13 gangs,IDENTITY_MARKER,NEGATIVE
+But they're as bad as the bloodthirsty MS-13 gangs that we have gotten thousands and thousands of them out.,56,58,we,PRONOUN,POSITIVE
+But they're as bad as the bloodthirsty MS-13 gangs that we have gotten thousands and thousands of them out.,71,102,thousands and thousands of them,IDENTITY_MARKER,NEGATIVE
+"In fact, over 11,000 murderers were released into our country by other countries all over the world because of Biden's open border policy.",9,30,"over 11,000 murderers",IDENTITY_MARKER,NEGATIVE
+"In fact, over 11,000 murderers were released into our country by other countries all over the world because of Biden's open border policy.",50,61,our country,IDENTITY_MARKER,POSITIVE
+"In fact, over 11,000 murderers were released into our country by other countries all over the world because of Biden's open border policy.",65,80,other countries,IDENTITY_MARKER,NEGATIVE
+"In fact, over 11,000 murderers were released into our country by other countries all over the world because of Biden's open border policy.",81,99,all over the world,IDENTITY_MARKER,NEGATIVE
+"In fact, over 11,000 murderers were released into our country by other countries all over the world because of Biden's open border policy.",111,137,Biden's open border policy,IDENTITY_MARKER,NEGATIVE
+"And when I heard about that, I said, ""They're just going to -- everybody's going to empty out their prisons into our country.""",23,27,that,IDENTITY_MARKER,NEUTRAL
+"And when I heard about that, I said, ""They're just going to -- everybody's going to empty out their prisons into our country.""",38,42,They,PRONOUN,NEGATIVE
+"And when I heard about that, I said, ""They're just going to -- everybody's going to empty out their prisons into our country.""",63,72,everybody,IDENTITY_MARKER,NEGATIVE
+"And when I heard about that, I said, ""They're just going to -- everybody's going to empty out their prisons into our country.""",94,107,their prisons,PRONOUN,NEGATIVE
+"And when I heard about that, I said, ""They're just going to -- everybody's going to empty out their prisons into our country.""",113,124,our country,PRONOUN,POSITIVE
+I said that.,7,11,that,IDENTITY_MARKER,NEUTRAL
+"I'd do that if I were heading up any one of the many countries that you know about, not just South America, all over.",7,11,that,IDENTITY_MARKER,NEUTRAL
+"I'd do that if I were heading up any one of the many countries that you know about, not just South America, all over.",33,62,any one of the many countries,IDENTITY_MARKER,NEUTRAL
+"I'd do that if I were heading up any one of the many countries that you know about, not just South America, all over.",68,71,you,PRONOUN,NEUTRAL
+"I'd do that if I were heading up any one of the many countries that you know about, not just South America, all over.",93,106,South America,IDENTITY_MARKER,NEUTRAL
+"I'd do that if I were heading up any one of the many countries that you know about, not just South America, all over.",108,116,all over,IDENTITY_MARKER,NEUTRAL
+"They take their prisons and mental institutions, and they empty them out into our country.",0,4,They,PRONOUN,NEGATIVE
+"They take their prisons and mental institutions, and they empty them out into our country.",10,23,their prisons,IDENTITY_MARKER,NEGATIVE
+"They take their prisons and mental institutions, and they empty them out into our country.",28,47,mental institutions,IDENTITY_MARKER,NEGATIVE
+"They take their prisons and mental institutions, and they empty them out into our country.",53,57,they,PRONOUN,NEGATIVE
+"They take their prisons and mental institutions, and they empty them out into our country.",64,68,them,PRONOUN,NEGATIVE
+"They take their prisons and mental institutions, and they empty them out into our country.",78,89,our country,IDENTITY_MARKER,POSITIVE
+Can you imagine a person doing this?,4,7,you,PRONOUN,NEUTRAL
+Can you imagine a person doing this?,16,24,a person,IDENTITY_MARKER,NEGATIVE
+Can you imagine a person doing this?,31,35,this,IDENTITY_MARKER,NEGATIVE
+Can you imagine somebody doing that to our country?,4,7,you,PRONOUN,NEUTRAL
+Can you imagine somebody doing that to our country?,16,24,somebody,IDENTITY_MARKER,NEGATIVE
+Can you imagine somebody doing that to our country?,32,36,that,IDENTITY_MARKER,NEGATIVE
+Can you imagine somebody doing that to our country?,39,50,our country,IDENTITY_MARKER,POSITIVE
+"For American citizens, January 20th, 2025, was truly Liberation Day.",4,21,American citizens,IDENTITY_MARKER,POSITIVE
+"For American citizens, January 20th, 2025, was truly Liberation Day.",53,67,Liberation Day,IDENTITY_MARKER,POSITIVE
+That was really Liberation Day.,0,4,That,IDENTITY_MARKER,POSITIVE
+That was really Liberation Day.,16,30,Liberation Day,IDENTITY_MARKER,POSITIVE
+"This week, I also signed an order to end the weaponization of our government against American people and political people like me.",25,33,an order,IDENTITY_MARKER,POSITIVE
+"This week, I also signed an order to end the weaponization of our government against American people and political people like me.",41,76,the weaponization of our government,IDENTITY_MARKER,NEGATIVE
+"This week, I also signed an order to end the weaponization of our government against American people and political people like me.",85,100,American people,IDENTITY_MARKER,POSITIVE
+"This week, I also signed an order to end the weaponization of our government against American people and political people like me.",105,121,political people,IDENTITY_MARKER,POSITIVE
+We never had a thing like that.,0,2,We,PRONOUN,POSITIVE
+We never had a thing like that.,13,20,a thing,IDENTITY_MARKER,POSITIVE
+We never had a thing like that.,26,30,that,IDENTITY_MARKER,NEUTRAL
+He went after his political opponent.,0,2,He,PRONOUN,NEGATIVE
+He went after his political opponent.,14,36,his political opponent,IDENTITY_MARKER,POSITIVE
+Who would have thought he helped me?,23,25,he,PRONOUN,NEUTRAL
+"I think he helped me get elected, Joe.",8,10,he,PRONOUN,POSITIVE
+"I think he helped me get elected, Joe.",34,37,Joe,IDENTITY_MARKER,NEUTRAL
+You want to know the truth?,0,3,You,PRONOUN,NEUTRAL
+You want to know the truth?,17,26,the truth,IDENTITY_MARKER,POSITIVE
+I'm the only guy that ever became more popular when something like that happened.,4,16,the only guy,IDENTITY_MARKER,POSITIVE
+I'm the only guy that ever became more popular when something like that happened.,52,71,something like that,IDENTITY_MARKER,NEGATIVE
+But these guys were just so inept.,4,14,these guys,IDENTITY_MARKER,NEGATIVE
+"We had the guy, Deranged Jack Smith.",0,2,We,PRONOUN,NEUTRAL
+"We had the guy, Deranged Jack Smith.",7,14,the guy,IDENTITY_MARKER,NEGATIVE
+"We had the guy, Deranged Jack Smith.",16,35,Deranged Jack Smith,IDENTITY_MARKER,NEGATIVE
+He was a deranged German man.,0,2,He,PRONOUN,NEGATIVE
+He was a deranged German man.,7,28,a deranged German man,IDENTITY_MARKER,NEGATIVE
+"But they thought this way, Biden could sneak by, and he could win an election.",4,8,they,PRONOUN,NEGATIVE
+"But they thought this way, Biden could sneak by, and he could win an election.",17,25,this way,IDENTITY_MARKER,NEGATIVE
+"But they thought this way, Biden could sneak by, and he could win an election.",27,32,Biden,IDENTITY_MARKER,NEGATIVE
+"But they thought this way, Biden could sneak by, and he could win an election.",53,55,he,PRONOUN,NEGATIVE
+"But they thought this way, Biden could sneak by, and he could win an election.",66,77,an election,IDENTITY_MARKER,NEUTRAL
+Another cheating in another election.,0,7,Another,IDENTITY_MARKER,NEGATIVE
+Another cheating in another election.,20,36,another election,IDENTITY_MARKER,NEUTRAL
+That's what it was.,0,4,That,IDENTITY_MARKER,NEUTRAL
+That's what it was.,12,14,it,PRONOUN,NEUTRAL
+But we won.,4,6,we,PRONOUN,POSITIVE
+Do you think that was fun?,3,6,you,PRONOUN,NEUTRAL
+Do you think that was easy?,3,6,you,PRONOUN,NEUTRAL
+Do you think that was easy?,13,17,that,IDENTITY_MARKER,NEUTRAL
+It wasn't fun.,0,2,It,PRONOUN,NEGATIVE
+And investigate all of the abuses of power.,16,42,all of the abuses of power,IDENTITY_MARKER,NEGATIVE
+I pardoned hundreds of political prisoners who had been viciously persecuted by the Biden regime.,11,42,hundreds of political prisoners,IDENTITY_MARKER,POSITIVE
+I pardoned hundreds of political prisoners who had been viciously persecuted by the Biden regime.,80,96,the Biden regime,IDENTITY_MARKER,NEGATIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",0,18,Hundreds of people,IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",46,56,Christians,IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",61,76,pro-life activists,IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",81,113,"Washington, D.C. police officers",IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",114,133,the police officers,IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",151,156,lives,IDENTITY_MARKER,POSITIVE
+"Hundreds of people were persecuted, including Christians, pro-life activists, to Washington, D.C. police officers the police officers yesterday, whose lives were destroyed from chasing down a dangerous illegal alien criminal.",190,224,a dangerous illegal alien criminal,IDENTITY_MARKER,NEGATIVE
+"And of course, I was very proud to pardon the J6 hostages.",42,57,the J6 hostages,IDENTITY_MARKER,POSITIVE
+"Once and for all, I stopped government censorship, and we brought back free speech in America.",28,49,government censorship,IDENTITY_MARKER,NEGATIVE
+"Once and for all, I stopped government censorship, and we brought back free speech in America.",55,57,we,PRONOUN,POSITIVE
+"Once and for all, I stopped government censorship, and we brought back free speech in America.",71,82,free speech,IDENTITY_MARKER,POSITIVE
+"Once and for all, I stopped government censorship, and we brought back free speech in America.",86,93,America,IDENTITY_MARKER,POSITIVE
+We brought it back.,0,2,We,PRONOUN,POSITIVE
+We brought it back.,11,13,it,PRONOUN,POSITIVE
+We did more of this last week.,0,2,We,PRONOUN,POSITIVE
+We did more of this last week.,15,29,this,IDENTITY_MARKER,POSITIVE
+People can't even believe it.,0,6,People,IDENTITY_MARKER,NEUTRAL
+People can't even believe it.,26,28,it,PRONOUN,NEUTRAL
+"I also signed an order to declassify and publish all remaining files related to the assassinations of President John F. Kennedy, Robert Kennedy, and Martin Luther King, Jr.",14,68,an order to declassify and publish all remaining files,IDENTITY_MARKER,POSITIVE
+"I also signed an order to declassify and publish all remaining files related to the assassinations of President John F. Kennedy, Robert Kennedy, and Martin Luther King, Jr.",80,98,the assassinations,IDENTITY_MARKER,NEGATIVE
+"I also signed an order to declassify and publish all remaining files related to the assassinations of President John F. Kennedy, Robert Kennedy, and Martin Luther King, Jr.",102,127,President John F. Kennedy,IDENTITY_MARKER,POSITIVE
+"I also signed an order to declassify and publish all remaining files related to the assassinations of President John F. Kennedy, Robert Kennedy, and Martin Luther King, Jr.",129,143,Robert Kennedy,IDENTITY_MARKER,POSITIVE
+"I also signed an order to declassify and publish all remaining files related to the assassinations of President John F. Kennedy, Robert Kennedy, and Martin Luther King, Jr.",149,172,"Martin Luther King, Jr.",IDENTITY_MARKER,POSITIVE
+"I signed an order that will end all of the lawless diversity, equity, and inclusion nonsense.",9,17,an order,IDENTITY_MARKER,POSITIVE
+"I signed an order that will end all of the lawless diversity, equity, and inclusion nonsense.",39,60,the lawless diversity,IDENTITY_MARKER,NEGATIVE
+"I signed an order that will end all of the lawless diversity, equity, and inclusion nonsense.",62,68,equity,IDENTITY_MARKER,NEGATIVE
+"I signed an order that will end all of the lawless diversity, equity, and inclusion nonsense.",74,92,inclusion nonsense,IDENTITY_MARKER,NEGATIVE
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",11,25,the government,IDENTITY_MARKER,NEUTRAL
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",30,48,the private sector,IDENTITY_MARKER,NEUTRAL
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",50,52,we,PRONOUN,POSITIVE
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",63,95,60 years of prejudice and hatred,IDENTITY_MARKER,NEGATIVE
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",101,125,the signing of one order,IDENTITY_MARKER,POSITIVE
+"All across the government and the private sector, we abolished 60 years of prejudice and hatred with the signing of one order, all approved by the United States Supreme Court.",143,174,the United States Supreme Court,IDENTITY_MARKER,NEUTRAL
+We're allowed to do it because we are now in a merit-based world.,0,2,We,PRONOUN,NEUTRAL
+We're allowed to do it because we are now in a merit-based world.,20,22,it,PRONOUN,NEUTRAL
+We're allowed to do it because we are now in a merit-based world.,31,33,we,PRONOUN,NEUTRAL
+We're allowed to do it because we are now in a merit-based world.,45,64,a merit-based world,IDENTITY_MARKER,POSITIVE
+We're a merit-based country.,0,2,We,PRONOUN,POSITIVE
+We're a merit-based country.,6,27,a merit-based country,IDENTITY_MARKER,POSITIVE
+Did you ever think you were going to hear that again?,4,7,you,PRONOUN,NEUTRAL
+Did you ever think you were going to hear that again?,19,22,you,PRONOUN,NEUTRAL
+Did you ever think you were going to hear that again?,42,46,that,IDENTITY_MARKER,POSITIVE
+It's based on merit.,0,2,It,PRONOUN,POSITIVE
+It's based on merit.,14,19,merit,IDENTITY_MARKER,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",3,6,you,PRONOUN,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",14,24,the talent,IDENTITY_MARKER,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",29,32,you,PRONOUN,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",40,48,the work,IDENTITY_MARKER,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",50,59,the ethic,IDENTITY_MARKER,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",61,76,the whole thing,IDENTITY_MARKER,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",78,80,it,PRONOUN,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",99,101,it,PRONOUN,POSITIVE
+"If you've got the talent, if you've got the work, the ethic, the whole thing, it's based now on -- it's not based on any other thing.",117,132,any other thing,IDENTITY_MARKER,NEUTRAL
+It's based on your capability.,0,2,It,PRONOUN,NEUTRAL
+It's based on your capability.,14,29,your capability,IDENTITY_MARKER,POSITIVE
+"The United States has now become, again, a meritocracy.",0,17,The United States,IDENTITY_MARKER,NEUTRAL
+"The United States has now become, again, a meritocracy.",41,54,a meritocracy,IDENTITY_MARKER,NEUTRAL
+"Isn't that a beautiful word, a meritocracy?",6,10,that,IDENTITY_MARKER,POSITIVE
+"Isn't that a beautiful word, a meritocracy?",29,42,a meritocracy,IDENTITY_MARKER,POSITIVE
+Based on merit.,9,14,merit,IDENTITY_MARKER,POSITIVE
+"If you do your job well, you're going to go places.",3,6,you,PRONOUN,POSITIVE
+"If you do your job well, you're going to go places.",10,18,your job,IDENTITY_MARKER,POSITIVE
+"If you do your job well, you're going to go places.",25,28,you,PRONOUN,POSITIVE
+"If you do your job well, you're going to go places.",38,50,to go places,IDENTITY_MARKER,POSITIVE
+And I made it the official policy of the United States government that there are only two genders: male and female.,14,65,the official policy of the United States government,IDENTITY_MARKER,POSITIVE
+And I made it the official policy of the United States government that there are only two genders: male and female.,81,97,only two genders,IDENTITY_MARKER,POSITIVE
+And I made it the official policy of the United States government that there are only two genders: male and female.,99,103,male,IDENTITY_MARKER,NEUTRAL
+And I made it the official policy of the United States government that there are only two genders: male and female.,108,114,female,IDENTITY_MARKER,NEUTRAL
+Male and female.,0,4,Male,IDENTITY_MARKER,NEUTRAL
+Male and female.,9,15,female,IDENTITY_MARKER,NEUTRAL
+"Every single day of my term, we're living by the motto, promises made, promises kept.",20,27,my term,IDENTITY_MARKER,NEUTRAL
+"Every single day of my term, we're living by the motto, promises made, promises kept.",29,31,we,PRONOUN,POSITIVE
+"Every single day of my term, we're living by the motto, promises made, promises kept.",45,54,the motto,IDENTITY_MARKER,POSITIVE
+"Every single day of my term, we're living by the motto, promises made, promises kept.",56,69,promises made,IDENTITY_MARKER,POSITIVE
+"Every single day of my term, we're living by the motto, promises made, promises kept.",71,84,promises kept,IDENTITY_MARKER,POSITIVE
+I kept my promises.,7,18,my promises,IDENTITY_MARKER,POSITIVE
+It's why we won.,0,2,It,PRONOUN,POSITIVE
+It's why we won.,9,11,we,PRONOUN,POSITIVE
+It really is why we won.,0,2,It,PRONOUN,POSITIVE
+It really is why we won.,17,19,we,PRONOUN,POSITIVE
+We won because of the past four years.,0,2,We,PRONOUN,POSITIVE
+We won because of the past four years.,18,37,the past four years,IDENTITY_MARKER,POSITIVE
+We won because of that.,0,2,We,PRONOUN,POSITIVE
+We won because of that.,18,22,that,IDENTITY_MARKER,POSITIVE
+"But this is going to blow it away because when I came in, I had no experience.",4,8,this,IDENTITY_MARKER,POSITIVE
+"But this is going to blow it away because when I came in, I had no experience.",26,28,it,PRONOUN,NEUTRAL
+I didn't do this before.,12,16,this,IDENTITY_MARKER,NEUTRAL
+I never did this.,12,16,this,IDENTITY_MARKER,NEUTRAL
+I was never a politician before.,12,24,a politician,IDENTITY_MARKER,NEUTRAL
+I was talking to JD Vance.,17,25,JD Vance,IDENTITY_MARKER,NEUTRAL
+"By the way, hasn't he done a great job, JD Vance?",19,21,he,PRONOUN,POSITIVE
+"By the way, hasn't he done a great job, JD Vance?",27,38,a great job,IDENTITY_MARKER,POSITIVE
+"By the way, hasn't he done a great job, JD Vance?",40,48,JD Vance,IDENTITY_MARKER,POSITIVE
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",8,10,JD,IDENTITY_MARKER,NEUTRAL
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",25,35,the Senate,IDENTITY_MARKER,NEUTRAL
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",46,48,he,PRONOUN,NEUTRAL
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",57,75,the vice president,IDENTITY_MARKER,NEUTRAL
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",90,92,JD,IDENTITY_MARKER,POSITIVE
+"Because JD went right to the Senate, and then he went to the vice president, and I said, ""JD, you're really upwardly mobile.""",94,97,you,PRONOUN,POSITIVE
+"He said, ""You're more so than me.""",0,2,He,PRONOUN,NEUTRAL
+"He said, ""You're more so than me.""",10,13,You,PRONOUN,POSITIVE
+"I said, ""Why do you say that?""",16,19,you,PRONOUN,NEUTRAL
+"I said, ""Why do you say that?""",24,28,that,IDENTITY_MARKER,NEUTRAL
+"He said, ""You went from being a real estate developer to the president.""",0,2,He,PRONOUN,NEUTRAL
+"He said, ""You went from being a real estate developer to the president.""",10,13,You,PRONOUN,NEUTRAL
+"He said, ""You went from being a real estate developer to the president.""",30,53,a real estate developer,IDENTITY_MARKER,NEUTRAL
+"He said, ""You went from being a real estate developer to the president.""",57,70,the president,IDENTITY_MARKER,NEUTRAL
+"That's a pretty big -- that's a pretty bad -- I never thought of it that way, I guess.",0,4,That,IDENTITY_MARKER,POSITIVE
+"That's a pretty big -- that's a pretty bad -- I never thought of it that way, I guess.",23,27,that,IDENTITY_MARKER,POSITIVE
+"That's a pretty big -- that's a pretty bad -- I never thought of it that way, I guess.",65,67,it,PRONOUN,NEUTRAL
+I'm the most upwardly mobile politician in history.,4,39,the most upwardly mobile politician,IDENTITY_MARKER,POSITIVE
+I'm the most upwardly mobile politician in history.,43,50,history,IDENTITY_MARKER,POSITIVE
+I didn't make any stops along the way.,14,23,any stops,IDENTITY_MARKER,NEUTRAL
+I didn't make any stops along the way.,30,37,the way,IDENTITY_MARKER,NEUTRAL
+"It will be the greatest honor of my life to serve, not once but twice or three times or four times.",11,40,the greatest honor of my life,IDENTITY_MARKER,POSITIVE
+Headlines from the fake news.,15,28,the fake news,IDENTITY_MARKER,NEGATIVE
+"No, it will be to serve twice.",4,6,it,PRONOUN,NEUTRAL
+"And together, we will not fail.",14,16,we,PRONOUN,POSITIVE
+"We will win, win, win.",0,2,We,PRONOUN,POSITIVE
+We will bring back the American dream.,0,2,We,PRONOUN,POSITIVE
+We will bring back the American dream.,19,37,the American dream,IDENTITY_MARKER,POSITIVE
+We're going to bring it back.,0,5,We're,PRONOUN,POSITIVE
+We're going to bring it back.,21,23,it,PRONOUN,POSITIVE
+"You know, in recent years, our nation has suffered greatly, but we are going to make it great again, greater than ever before.",0,3,You,PRONOUN,POSITIVE
+"You know, in recent years, our nation has suffered greatly, but we are going to make it great again, greater than ever before.",27,37,our nation,IDENTITY_MARKER,POSITIVE
+"You know, in recent years, our nation has suffered greatly, but we are going to make it great again, greater than ever before.",64,66,we,PRONOUN,POSITIVE
+"You know, in recent years, our nation has suffered greatly, but we are going to make it great again, greater than ever before.",85,87,it,PRONOUN,POSITIVE
+"We'll be a nation like no other, full of compassion, courage, and exceptionalism.",0,2,We,PRONOUN,POSITIVE
+"We'll be a nation like no other, full of compassion, courage, and exceptionalism.",9,17,a nation,IDENTITY_MARKER,POSITIVE
+"We'll be a nation like no other, full of compassion, courage, and exceptionalism.",41,51,compassion,IDENTITY_MARKER,POSITIVE
+"We'll be a nation like no other, full of compassion, courage, and exceptionalism.",53,60,courage,IDENTITY_MARKER,POSITIVE
+"We'll be a nation like no other, full of compassion, courage, and exceptionalism.",66,80,exceptionalism,IDENTITY_MARKER,POSITIVE
+"That's what we're doing, and that's what it's all about.",0,4,That,IDENTITY_MARKER,POSITIVE
+"That's what we're doing, and that's what it's all about.",12,14,we,PRONOUN,POSITIVE
+"That's what we're doing, and that's what it's all about.",29,33,that,IDENTITY_MARKER,NEUTRAL
+"That's what we're doing, and that's what it's all about.",41,43,it,PRONOUN,POSITIVE
+And you see that.,4,7,you,PRONOUN,POSITIVE
+And you see that.,12,16,that,IDENTITY_MARKER,NEUTRAL
+I think you see it more in the last week than you've seen it in years.,8,11,you,PRONOUN,POSITIVE
+I think you see it more in the last week than you've seen it in years.,16,18,it,PRONOUN,NEUTRAL
+I think you see it more in the last week than you've seen it in years.,46,49,you,PRONOUN,POSITIVE
+I think you see it more in the last week than you've seen it in years.,58,60,it,PRONOUN,NEUTRAL
+"And I walked up the stairs of that massive plane that's waiting for me, that big 747, and I said, ""There's no way I'm going to let myself fall.""",16,48,the stairs of that massive plane,IDENTITY_MARKER,NEUTRAL
+"And I walked up the stairs of that massive plane that's waiting for me, that big 747, and I said, ""There's no way I'm going to let myself fall.""",72,84,that big 747,IDENTITY_MARKER,POSITIVE
+Because that was -- that was one hell of a -- that triple fall was a disaster.,8,12,that,IDENTITY_MARKER,NEUTRAL
+Because that was -- that was one hell of a -- that triple fall was a disaster.,20,24,that,IDENTITY_MARKER,NEUTRAL
+Because that was -- that was one hell of a -- that triple fall was a disaster.,46,62,that triple fall,IDENTITY_MARKER,NEGATIVE
+I would call that a political disaster.,13,17,that,IDENTITY_MARKER,NEGATIVE
+I would call that a political disaster.,18,38,a political disaster,IDENTITY_MARKER,NEGATIVE
+You can fall once.,0,3,You,PRONOUN,NEUTRAL
+You can fall twice.,0,3,You,PRONOUN,NEUTRAL
+But you can't fall three times.,4,7,you,PRONOUN,NEGATIVE
+You can't fall three times.,0,3,You,PRONOUN,NEGATIVE
+What a disaster.,5,15,a disaster,IDENTITY_MARKER,NEGATIVE
+I've used that in every ad I think I ever did.,10,14,that,IDENTITY_MARKER,NEUTRAL
+I've used that in every ad I think I ever did.,15,26,in every ad,IDENTITY_MARKER,NEUTRAL
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",0,9,Our power,IDENTITY_MARKER,POSITIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",20,28,all wars,IDENTITY_MARKER,NEGATIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",39,60,a new spirit of unity,IDENTITY_MARKER,POSITIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",64,71,a world,IDENTITY_MARKER,NEGATIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",84,89,angry,IDENTITY_MARKER,NEGATIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",91,98,violent,IDENTITY_MARKER,NEGATIVE
+"Our power will stop all wars and bring a new spirit of unity to a world that's been angry, violent, and very unpredictable.",104,122,very unpredictable,IDENTITY_MARKER,NEGATIVE
+"America will be respected again and admired again, including by the people of religion, faith, and goodwill.",0,7,America,IDENTITY_MARKER,POSITIVE
+"America will be respected again and admired again, including by the people of religion, faith, and goodwill.",64,107,"the people of religion, faith, and goodwill",IDENTITY_MARKER,POSITIVE
+We're bringing back religion in this country.,0,5,We're,PRONOUN,POSITIVE
+We're bringing back religion in this country.,20,28,religion,IDENTITY_MARKER,POSITIVE
+We're bringing back religion in this country.,32,44,this country,IDENTITY_MARKER,POSITIVE
+We will be prosperous.,0,2,We,PRONOUN,POSITIVE
+We will be free.,0,2,We,PRONOUN,POSITIVE
+We will be free.,11,15,free,IDENTITY_MARKER,POSITIVE
+"We will be bigger, bolder, and more ambitious than ever before.",0,2,We,PRONOUN,POSITIVE
+"We will be bigger, bolder, and more ambitious than ever before.",11,17,bigger,IDENTITY_MARKER,POSITIVE
+"We will be bigger, bolder, and more ambitious than ever before.",19,25,bolder,IDENTITY_MARKER,POSITIVE
+"We will be bigger, bolder, and more ambitious than ever before.",31,45,more ambitious,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",14,16,we,PRONOUN,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",27,34,America,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",35,43,powerful,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",56,63,America,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",64,71,wealthy,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",84,91,America,IDENTITY_MARKER,POSITIVE
+"And together, we will make America powerful again, make America wealthy again, make America healthy again.",92,99,healthy,IDENTITY_MARKER,POSITIVE
+"We will make America strong again, make America proud again.",0,2,We,PRONOUN,POSITIVE
+"We will make America strong again, make America proud again.",13,20,America,IDENTITY_MARKER,POSITIVE
+"We will make America strong again, make America proud again.",21,27,strong,IDENTITY_MARKER,POSITIVE
+"We will make America strong again, make America proud again.",40,47,America,IDENTITY_MARKER,POSITIVE
+"We will make America strong again, make America proud again.",48,53,proud,IDENTITY_MARKER,POSITIVE
+"We're going to make America safe again, and we will make America great again.",0,2,We,PRONOUN,POSITIVE
+"We're going to make America safe again, and we will make America great again.",20,27,America,IDENTITY_MARKER,POSITIVE
+"We're going to make America safe again, and we will make America great again.",28,32,safe,IDENTITY_MARKER,POSITIVE
+"We're going to make America safe again, and we will make America great again.",44,46,we,PRONOUN,POSITIVE
+"We're going to make America safe again, and we will make America great again.",57,64,America,IDENTITY_MARKER,POSITIVE
+"We're going to make America safe again, and we will make America great again.",65,70,great,IDENTITY_MARKER,POSITIVE
